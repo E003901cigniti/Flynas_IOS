@@ -1,0 +1,82 @@
+2017-03-22 15:49:37-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-22 16:02:21-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-22 16:03:27-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_15_roundTripDomesticEconomy_JED_TUU
+2017-03-22 16:05:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-03-22 16:06:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-03-22 16:08:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-03-22 16:08:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-03-22 16:08:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-03-22 16:09:29-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-03-22 16:10:10-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-03-22 16:11:00-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-03-22 16:11:45-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-03-22 16:11:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-03-22 17:15:49-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-22 17:16:54-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_20_roundTripDomesticEconomy_DMM_MED
+2017-03-22 17:18:21-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-03-22 17:18:22-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-03-22 17:20:08-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-22 17:21:16-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_16_roundTripDomesticEconomy_JED_ELQ
+2017-03-22 17:21:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-03-22 17:21:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-03-22 17:21:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-03-22 17:21:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-03-22 17:21:49-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-03-22 17:21:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-03-22 17:21:59-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-03-22 17:22:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on ELQ
+2017-03-22 17:22:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-03-22 17:22:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-03-22 17:23:10-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-03-22 17:31:45-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-22 17:32:50-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_16_roundTripDomesticEconomy_JED_ELQ
+2017-03-22 17:32:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-03-22 17:33:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-03-22 17:33:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-03-22 17:33:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-03-22 17:33:23-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-03-22 17:33:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-03-22 17:33:34-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-03-22 17:33:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on ELQ
+2017-03-22 17:33:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-03-22 17:43:02-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-22 17:44:06-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_16_roundTripDomesticEconomy_JED_ELQ
+2017-03-22 17:44:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-03-22 17:44:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-03-22 17:44:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-03-22 17:44:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-03-22 17:44:39-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-03-22 17:44:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-03-22 17:44:49-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-03-22 17:44:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on ELQ
+2017-03-22 17:44:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-03-22 17:55:04-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-22 17:56:06-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_16_roundTripDomesticEconomy_JED_ELQ
+2017-03-22 18:12:02-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-22 18:12:29-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-22 18:13:32-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_16_roundTripDomesticEconomy_JED_ELQ
+2017-03-22 18:26:46-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-22 18:27:51-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_16_roundTripDomesticEconomy_JED_ELQ
+2017-03-22 18:29:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-03-22 18:29:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-03-22 18:29:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-03-22 18:29:51-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-03-22 18:30:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-03-22 18:30:12-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-03-22 18:30:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on ELQ
+2017-03-22 18:31:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-03-22 18:31:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-03-22 18:31:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-03-22 18:31:37-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-03-22 18:31:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-03-22 18:31:50-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-03-22 18:31:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on ELQ
+2017-03-22 18:32:21-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@resource-id='com.flynas.android.app:id/departure1SearchFlightButton']
+2017-03-22 18:32:22-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-03-22 18:33:45-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-22 18:35:11-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-22 18:36:16-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_16_roundTripDomesticEconomy_JED_ELQ
+2017-03-22 19:04:54-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-22 19:05:58-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_16_roundTripDomesticEconomy_JED_ELQ
+2017-03-22 19:09:11-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-22 19:10:16-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_16_roundTripDomesticEconomy_JED_ELQ

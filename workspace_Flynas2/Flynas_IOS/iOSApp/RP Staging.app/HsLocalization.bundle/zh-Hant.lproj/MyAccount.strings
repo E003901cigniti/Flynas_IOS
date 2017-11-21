@@ -1,0 +1,96 @@
+
+/* Class = "UILabel"; text = "Currency:"; ObjectID = "1tE-KH-GgQ"; */
+"1tE-KH-GgQ.text" = "Currency:";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "7Jf-9P-swW"; */
+"7Jf-9P-swW.text" = "-";
+
+/* Class = "UILabel"; text = "1000 THB #i!"; ObjectID = "7KS-fj-mrQ"; */
+"7KS-fj-mrQ.text" = "1000 THB #i!";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "Adg-MM-XY1"; */
+"Adg-MM-XY1.text" = "Label #i!";
+
+/* Class = "UILabel"; text = "No Previous Bookings"; ObjectID = "BD0-Nh-gV7"; */
+"BD0-Nh-gV7.text" = "No Previous Bookings";
+
+/* Class = "UILabel"; text = "You'll see your bookings history here."; ObjectID = "Caw-1P-jsD"; */
+"Caw-1P-jsD.text" = "You'll see your bookings history here.";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "GDg-xc-iH1"; */
+"GDg-xc-iH1.text" = "Label #i!";
+
+/* Class = "UIButton"; normalTitle = "DON'T SEE YOUR BOOKING?"; ObjectID = "GKc-Sl-Ng6"; */
+"GKc-Sl-Ng6.normalTitle" = "DON'T SEE YOUR BOOKING?";
+
+/* Class = "UILabel"; text = "Mobile:"; ObjectID = "HTc-vU-Wdc"; */
+"HTc-vU-Wdc.text" = "Mobile:";
+
+/* Class = "UIBarButtonItem"; title = "Update"; ObjectID = "Jun-9F-188"; */
+"Jun-9F-188.title" = "Update";
+
+/* Class = "UINavigationItem"; title = "ACCOUNT"; ObjectID = "MJe-3Z-jEm"; */
+"MJe-3Z-jEm.title" = "ACCOUNT";
+
+/* Class = "UILabel"; text = "American #i!"; ObjectID = "Sbh-gX-cDc"; */
+"Sbh-gX-cDc.text" = "American #i!";
+
+/* Class = "UILabel"; text = "Thailand #i!"; ObjectID = "Spb-NA-JH3"; */
+"Spb-NA-JH3.text" = "Thailand #i!";
+
+/* Class = "UILabel"; text = "Residence:"; ObjectID = "Urr-ao-qQG"; */
+"Urr-ao-qQG.text" = "Residence:";
+
+/* Class = "UILabel"; text = "Nationality:"; ObjectID = "V9B-Y9-csL"; */
+"V9B-Y9-csL.text" = "Nationality:";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Wh7-tI-RD6"; */
+"Wh7-tI-RD6.text" = "Name";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "XdX-jr-ioN"; */
+"XdX-jr-ioN.text" = "Label #i!";
+
+/* Class = "UILabel"; text = "USD #i!"; ObjectID = "akB-uv-wxE"; */
+"akB-uv-wxE.text" = "USD #i!";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "bxB-1a-tYE"; */
+"bxB-1a-tYE.title" = "Edit";
+
+/* Class = "UILabel"; text = "Mr John Appleseed #i!"; ObjectID = "ccV-OD-K8o"; */
+"ccV-OD-K8o.text" = "Mr John Appleseed #i!";
+
+/* Class = "UILabel"; text = "#i!"; ObjectID = "dIc-M2-Qeo"; */
+"dIc-M2-Qeo.text" = "#i!";
+
+/* Class = "UIBarButtonItem"; title = "Account"; ObjectID = "dl6-zf-uEd"; */
+"dl6-zf-uEd.title" = "Account";
+
+/* Class = "UILabel"; text = "1234567890 #i!"; ObjectID = "gXl-Qc-lTQ"; */
+"gXl-Qc-lTQ.text" = "1234567890 #i!";
+
+/* Class = "UILabel"; text = "No Upcoming Bookings"; ObjectID = "lHY-xm-GLc"; */
+"lHY-xm-GLc.text" = "No Upcoming Bookings";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "lvD-l5-xo2"; */
+"lvD-l5-xo2.text" = "Label #i!";
+
+/* Class = "UILabel"; text = "When you book a hotel, you'll see your details here."; ObjectID = "o9Z-4F-Xc6"; */
+"o9Z-4F-Xc6.text" = "When you book a hotel, you'll see your details here.";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "ofh-Mm-Tvf"; */
+"ofh-Mm-Tvf.text" = "Label #i!";
+
+/* Class = "UILabel"; text = "+66-8-1123-4567 #i!"; ObjectID = "ppc-cV-c6O"; */
+"ppc-cV-c6O.text" = "+66-8-1123-4567 #i!";
+
+/* Class = "UILabel"; text = "Passport:"; ObjectID = "tbe-68-j9u"; */
+"tbe-68-j9u.text" = "Passport:";
+
+/* Class = "UINavigationItem"; title = "EDIT PROFILE"; ObjectID = "x97-Fc-3Zl"; */
+"x97-Fc-3Zl.title" = "EDIT PROFILE";
+
+/* Class = "UIButton"; normalTitle = "SIGN OUT"; ObjectID = "yXj-Vt-m1z"; */
+"yXj-Vt-m1z.normalTitle" = "SIGN OUT";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "z88-GQ-CwC"; */
+"z88-GQ-CwC.text" = "Label #i!";

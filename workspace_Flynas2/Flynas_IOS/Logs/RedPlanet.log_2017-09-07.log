@@ -1,0 +1,304 @@
+2017-09-07 11:10:57-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-07 11:21:07-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_roundTripDomesticEconomy_JED_DMM
+2017-09-07 11:21:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 11:21:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 11:21:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 11:21:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 11:22:01-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 11:22:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 11:22:10-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 11:22:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on DMM
+2017-09-07 11:22:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 11:23:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 11:24:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 11:32:48-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-09-07 11:32:49-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-09-07 11:33:10-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 11:33:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 11:33:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 11:33:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 11:33:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 11:34:04-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 11:34:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 11:34:14-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 11:34:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 11:34:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 11:35:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 11:36:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 12:16:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 12:17:02-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 12:17:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 12:17:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 12:17:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 12:17:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 12:17:56-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 12:17:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 12:18:05-main--INFO -com.ctaf.accelerators.TestEngine:Typing is not performed on Destination
+2017-09-07 12:19:26-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 12:20:10-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 12:20:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 12:20:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 12:20:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 12:20:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 12:21:04-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 12:21:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 12:21:13-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 12:21:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 12:22:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 12:40:48-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 12:42:04-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 12:43:28-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 12:43:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 12:43:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 12:44:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 12:44:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 12:44:23-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 12:44:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 12:44:33-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 12:44:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 12:44:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 12:59:08-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 12:59:23-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 13:00:11-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 13:00:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 13:00:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 13:00:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 13:00:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 13:01:05-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 13:01:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 13:01:15-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 13:01:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 13:01:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 13:08:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[3]/XCUIElementTypeButton[12]
+2017-09-07 13:12:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 14:23:12-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 14:23:57-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 14:24:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 14:24:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 14:24:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 14:24:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 14:24:51-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 14:24:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 14:25:00-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 14:25:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 14:25:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 14:48:22-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 14:51:50-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 14:52:47-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 14:52:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 14:53:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 14:53:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 14:53:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 14:53:43-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 14:53:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 14:53:53-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 14:53:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 14:54:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 15:06:00-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 15:06:42-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 15:06:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 15:07:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 15:07:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 15:07:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 15:07:38-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 15:07:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 15:07:48-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 15:07:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 15:07:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 15:09:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 15:12:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 15:17:40-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 15:18:58-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 15:19:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 15:19:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 15:19:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 15:19:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 15:19:52-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 15:19:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 15:20:01-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 15:20:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 15:20:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 15:21:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 15:25:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 15:34:19-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 15:35:02-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 15:35:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 15:35:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 15:35:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 15:35:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 15:35:55-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 15:35:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 15:36:05-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 15:36:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 15:36:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 15:37:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 15:41:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 15:52:34-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 15:53:16-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 15:53:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 15:53:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 15:53:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 15:54:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 15:54:09-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 15:54:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 15:54:19-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 15:54:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 15:54:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 15:56:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 15:59:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 16:00:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-09-07 16:44:24-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 16:45:55-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 16:46:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 16:46:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 16:47:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 16:47:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 16:47:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 16:47:29-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 16:47:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 16:47:39-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 16:47:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 16:47:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 16:49:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 16:52:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 16:53:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Title*']/following-sibling::XCUIElementTypeButton[1]
+2017-09-07 16:53:50-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Tittle
+2017-09-07 16:57:43-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on firstName
+2017-09-07 16:58:04-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on LastName
+2017-09-07 17:01:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Date of birth*']/following-sibling:: XCUIElementTypeButton[2]
+2017-09-07 17:01:45-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Date Of Birth
+2017-09-07 17:02:19-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on ID Number
+2017-09-07 17:31:57-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 17:32:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 17:32:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 17:33:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 17:33:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 17:33:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 17:33:32-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 17:33:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 17:33:41-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 17:33:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 17:33:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 17:34:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 17:35:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 17:37:58-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='Title*']/following-sibling::XCUIElementTypeButton[1]
+2017-09-07 17:37:59-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-09-07 17:43:54-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 17:44:36-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 17:44:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 17:45:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 17:45:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 17:45:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 17:45:28-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 17:45:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 17:45:37-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 17:45:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 17:45:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 17:46:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 17:47:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 17:48:34-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 17:49:15-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 17:49:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 17:49:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 17:49:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 17:50:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 17:50:08-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 17:50:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 17:50:17-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 17:50:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 17:50:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 17:51:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 17:53:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 17:54:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Title*']/following-sibling::XCUIElementTypeButton[1]
+2017-09-07 17:54:38-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Tittle
+2017-09-07 17:58:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='First Name*']/following-sibling:: XCUIElementTypeTextField[1]
+2017-09-07 17:58:41-main--INFO -com.ctaf.accelerators.TestEngine:Typing is not performed on firstName
+2017-09-07 17:58:41-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-09-07 18:12:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 18:13:20-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 18:13:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 18:13:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 18:13:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 18:14:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 18:14:12-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 18:14:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 18:14:22-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 18:14:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 18:14:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 18:15:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 18:16:47-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 18:17:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 18:17:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 18:17:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 18:18:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 18:18:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 18:18:22-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 18:18:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 18:18:31-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 18:18:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 18:18:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 18:19:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 18:23:44-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 18:24:27-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 18:24:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 18:24:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 18:25:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 18:25:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 18:25:19-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 18:25:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 18:25:28-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 18:25:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 18:25:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 18:28:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 18:31:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 18:36:39-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 18:37:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 18:37:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 18:37:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 19:06:47-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 19:07:55-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 19:08:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 19:08:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 19:08:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 19:08:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 19:08:48-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 19:08:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 19:08:58-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 19:09:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 19:09:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 19:09:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 19:12:17-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 19:13:01-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 19:13:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 19:13:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 19:13:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 19:13:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 19:13:53-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 19:13:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 19:14:03-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 19:14:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 19:14:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 19:15:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-07 19:36:55-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 19:37:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 19:37:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 19:38:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 19:38:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 19:38:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 19:38:29-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 19:38:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 19:38:39-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 19:38:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 19:38:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-07 19:49:36-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 19:49:57-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-07 19:50:41-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-09-07 19:50:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-07 19:51:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-07 19:51:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-07 19:51:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-07 19:51:33-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-07 19:51:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-07 19:51:42-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-07 19:51:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-07 19:51:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights

@@ -1,0 +1,12 @@
+2017-09-28 11:35:44-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-28 11:37:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEconomy_RUH_JED
+2017-09-28 11:37:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2017-09-28 11:37:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/*[@label='Login']
+2017-09-28 11:37:37-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2017-09-28 11:37:50-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2017-09-28 11:38:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Login']
+2017-09-28 11:38:52-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='Book flights']
+2017-09-28 11:38:55-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-09-28 14:08:54-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-28 14:22:15-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-28 14:23:01-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEconomy_RUH_JED

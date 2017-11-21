@@ -1,0 +1,120 @@
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "0Uq-6s-EVN"; */
+"0Uq-6s-EVN.placeholder" = "电子邮件";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "1Dd-nf-9Eb"; */
+"1Dd-nf-9Eb.placeholder" = "姓";
+
+/* Class = "UIButton"; normalTitle = "BOOK"; ObjectID = "1dv-6U-pQ0"; */
+"1dv-6U-pQ0.normalTitle" = "预订";
+
+/* This button allows the user to enter an email and send their booking confirmation to that email address */
+"4GR-EQ-7En.title" = "分享预订";
+
+/* Class = "UITextField"; placeholder = "MM"; ObjectID = "4Gx-UD-o1S"; */
+"4Gx-UD-o1S.placeholder" = "月份";
+
+/* Class = "UILabel"; text = "INCL. TAX & SERVICE CHARGE"; ObjectID = "8Pb-u6-u3E"; */
+"8Pb-u6-u3E.text" = "含税金和服务费 ";
+
+/* Class = "UILabel"; text = "You will have a chance to review the details on the next page before confirming your booking"; ObjectID = "ac3-7d-Wkd"; */
+"ac3-7d-Wkd.text" = "在您确认自己的预订之前，您将有机会在下一页审阅预订细节";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "AZs-x1-cNq"; */
+"AZs-x1-cNq.title" = "返回";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "CXx-pi-H0U"; */
+"CXx-pi-H0U.placeholder" = "名";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "CzU-qB-o3z"; */
+"CzU-qB-o3z.title" = "返回";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "Eru-qh-hxn"; */
+"Eru-qh-hxn.placeholder" = "电话号码";
+
+/* Class = "UILabel"; text = "Payment method: Pay at hotel"; ObjectID = "F9L-sY-3ts"; */
+"F9L-sY-3ts.text" = "付款方式：在酒店付款。";
+
+/* Class = "UILabel"; text = "PAY AT HOTEL"; ObjectID = "fkv-fZ-SZi"; */
+"fkv-fZ-SZi.text" = "在酒店付款";
+
+/* Class = "UINavigationItem"; title = "REVIEW & BOOK"; ObjectID = "gsO-86-acc"; */
+"gsO-86-acc.title" = "审阅并预订";
+
+/* Class = "UIButton"; normalTitle = "Terms and Conditions of Booking"; ObjectID = "gZC-OD-Oxt"; */
+"gZC-OD-Oxt.normalTitle" = "预订的条款和条件";
+
+/* Class = "UIButton"; normalTitle = "apply"; ObjectID = "I3J-FP-f9Z"; */
+"I3J-FP-f9Z.normalTitle" = "申请";
+
+/* Class = "UILabel"; text = "SPECIAL PROMOTION CODE"; ObjectID = "IcD-5R-uEN"; */
+"IcD-5R-uEN.text" = "特惠促销码";
+
+/* Class = "UITextField"; placeholder = "YY"; ObjectID = "J1n-bQ-zsF"; */
+"J1n-bQ-zsF.placeholder" = "年份";
+
+/* Class = "UINavigationItem"; title = "Booking complete"; ObjectID = "l41-s0-SEK"; */
+"l41-s0-SEK.title" = "预订完成";
+
+/* Class = "UILabel"; text = "Credit card must be presented at check-in"; ObjectID = "NPd-wS-FCa";
+ , Text to show to user that you will need to show credit card at check-in after you choose to Pay with credit card */
+"NPd-wS-FCa.text" = "入住时须出示信用卡";
+
+/* Class = "UILabel"; text = "By making this booking, you agree to the"; ObjectID = "NtD-9k-j6Q"; */
+"NtD-9k-j6Q.text" = "您进行此项预订，表示您同意";
+
+/* Class = "UIButton"; normalTitle = "SCAN YOUR CARD"; ObjectID = "ob3-Vq-P3Q"; */
+"ob3-Vq-P3Q.normalTitle" = "扫描您的卡";
+
+/* Class = "UILabel"; text = "We make it easy to enter your card, simply take a photo of it to have it auto entered. You may also enter the details manually."; ObjectID = "pEq-Es-5qQ"; */
+"pEq-Es-5qQ.text" = "我们使您输入自己的卡变得容易，只需将它拍照，使其自动输入。您也可以手动输入其详细内容。";
+
+/* Class = "UITextField"; placeholder = "Card Number"; ObjectID = "PpN-KI-HXd"; */
+"PpN-KI-HXd.placeholder" = "卡号";
+
+/* Class = "UILabel"; text = "You get 25% off!"; ObjectID = "qRs-wW-4h3";
+ , get 25% off from Birthday discount */
+"qRs-wW-4h3.text" = "您获得应付款扣减25%！";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "rsn-i8-h8O"; */
+"rsn-i8-h8O.placeholder" = "称呼";
+
+/* Class = "UILabel"; text = "HAPPY BIRTHDAY!"; ObjectID = "RuJ-XI-VMI";
+ , Happybirthday use for showing in checkout to show that customers have extra discount from birthday */
+"RuJ-XI-VMI.text" = "生日快乐!";
+
+/* Class = "UILabel"; text = "Your room will not be guaranteed and will be held until 16:00 (local time) on the day of arrival. If you fail to check-in by 16:00 (local time), the room will be released and made available to other customers"; ObjectID = "rV9-bI-oAv"; */
+"rV9-bI-oAv.text" = "您的订房不会得到保证，将仅被保留至您到达之日16:00时（当地时间）。您若在当地时间16:00时尚未入住，该客房将被释放并提供给其他顾客";
+
+/* Class = "UINavigationItem"; title = "CONFIRMATION"; ObjectID = "s3q-kb-lx0"; */
+"s3q-kb-lx0.title" = "确认";
+
+/* Class = "UITextField"; placeholder = "CVV / Security Code"; ObjectID = "tBw-9T-8jj"; */
+"tBw-9T-8jj.placeholder" = "信用卡验证号";
+
+/* Class = "UILabel"; text = "(Use the Back button to make any changes)"; ObjectID = "UlY-PW-4xq"; */
+"UlY-PW-4xq.text" = "(使用返回键进行任何修改)";
+
+/* Class = "UITextField"; placeholder = "Promo Code"; ObjectID = "uMj-6y-7pY"; */
+"uMj-6y-7pY.placeholder" = "促销码";
+
+/* Class = "UITextField"; placeholder = "Cardholder's Name"; ObjectID = "Vjl-Yi-K6c"; */
+"Vjl-Yi-K6c.placeholder" = "持卡人姓名";
+
+/* Class = "UILabel"; text = "Pay now and lock in our best rate!"; ObjectID = "vRS-7W-Mft"; */
+"vRS-7W-Mft.text" = "现在付款，锁定我们的最佳房费!";
+
+/* Class = "UIButton"; normalTitle = "BOOK NOW"; ObjectID = "vsE-EA-N5t"; */
+"vsE-EA-N5t.normalTitle" = "现在预订";
+
+/* Class = "UILabel"; text = "TOTAL"; ObjectID = "wbl-vY-1m7"; */
+"wbl-vY-1m7.text" = "总额";
+
+/* Class = "UILabel"; text = "Below are the details of your booking"; ObjectID = "Xao-Wn-cqh"; */
+"Xao-Wn-cqh.text" = "以下为您的预订明细";
+
+/* Class = "UILabel"; text = "TOTAL"; ObjectID = "xeU-Y7-nOd"; */
+"xeU-Y7-nOd.text" = "总额";
+
+/* Class = "UILabel"; text = "PAY NOW"; ObjectID = "YwM-AW-A6W"; */
+"YwM-AW-A6W.text" = "现在付款";
+

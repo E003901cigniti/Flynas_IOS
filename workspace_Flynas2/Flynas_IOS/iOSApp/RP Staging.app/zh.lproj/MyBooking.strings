@@ -1,0 +1,79 @@
+/* Class = "UILabel"; text = "OR"; ObjectID = "01Q-FP-k2g"; */
+"01Q-FP-k2g.text" = "或者";
+
+/* Class = "UILabel"; text = "SIGN UP FOR OUR REMEMBERED LOYALTY PROGRAM"; ObjectID = "2zT-nM-F7Y"; */
+"2zT-nM-F7Y.text" = "注册我们的记录在案计划";
+
+/* Class = "UIButton"; normalTitle = "Forgot Your Password?"; ObjectID = "6ik-SS-baT"; */
+"6ik-SS-baT.normalTitle" = "忘记您的密码?";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP USING EMAIL"; ObjectID = "BBq-xy-JVu"; */
+"BBq-xy-JVu.normalTitle" = "用电邮地址注册";
+
+/* Class = "UIButton"; normalTitle = "HAVE AN ACCOUNT? LOGIN"; ObjectID = "dfl-ZV-8xk"; */
+"dfl-ZV-8xk.normalTitle" = "有账户? 登录";
+
+/* Class = "UIButton"; normalTitle = "CONNECT WITH FACEBOOK"; ObjectID = "dL9-Cb-2OP"; */
+"dL9-Cb-2OP.normalTitle" = "连接脸谱";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "JWx-Tu-HFn"; */
+"JWx-Tu-HFn.title" = "编辑";
+
+/* Class = "UINavigationItem"; title = " MY BOOKINGS"; ObjectID = "QAW-6d-PXx"; */
+"QAW-6d-PXx.title" = "我的预订";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "VA0-OZ-kN5"; */
+"VA0-OZ-kN5.text" = "电子邮件";
+
+/* Class = "UILabel"; text = "AND GET 10% OFF ON ALL YOUR BOOKINGS ON OUR APP AND WEBSITE"; ObjectID = "wqF-UM-fS1"; */
+"wqF-UM-fS1.text" = "并得到您所有通过我们的应用程序和网站订房10%的费用扣减";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "x7y-js-8pH"; */
+"x7y-js-8pH.normalTitle" = "登录";
+
+/* Class = "UINavigationItem"; title = "Forgot Password"; ObjectID = "xAt-Xc-Yyk"; */
+"xAt-Xc-Yyk.title" = "忘记密码";
+
+/* Class = "UILabel"; text = "TOTAL"; ObjectID = "zCg-sF-WwX"; */
+"zCg-sF-WwX.text" = "总额";
+
+
+/* Class = "UIButton"; normalTitle = "Forgot Your Password?"; ObjectID = "0Xb-9u-JpU"; */
+"0Xb-9u-JpU.normalTitle" = "忘记您的密码?";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP USING EMAIL"; ObjectID = "2nR-nd-jf2"; */
+"2nR-nd-jf2.normalTitle" = "用电邮地址注册";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "5Po-Cn-Hs5"; */
+"5Po-Cn-Hs5.text" = "电子邮件";
+
+/* Class = "UIButton"; normalTitle = "HAVE AN ACCOUNT? LOGIN"; ObjectID = "Bif-QL-Vmv"; */
+"Bif-QL-Vmv.normalTitle" = "有账户? 登录";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "bWc-9T-49p"; */
+"bWc-9T-49p.text" = "或者";
+
+/* Class = "UIButton"; normalTitle = "CONNECT WITH FACEBOOK"; ObjectID = "Dj6-7t-BXl"; */
+"Dj6-7t-BXl.normalTitle" = "连接脸谱";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "Dx1-Ng-oXQ"; */
+"Dx1-Ng-oXQ.normalTitle" = "提交";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "gWD-J6-ZqD"; */
+"gWD-J6-ZqD.text" = "电子邮件";
+
+/* Class = "UINavigationItem"; title = "Forgot Password"; ObjectID = "iw6-27-EyC"; */
+"iw6-27-EyC.title" = "忘记密码";
+
+/* Class = "UINavigationItem"; title = "Retrieve Bookings"; ObjectID = "lxH-B2-HUR"; */
+"lxH-B2-HUR.title" = "提取预订信息";
+
+/* Class = "UINavigationItem"; title = "Sign Up"; ObjectID = "MvD-UZ-RKs"; */
+"MvD-UZ-RKs.title" = "注册";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "NbM-id-qZF"; */
+"NbM-id-qZF.text" = "电子邮件";
+
+/* Class = "UIButton"; normalTitle = "Sign In with Facebook"; ObjectID = "UOE-qO-9J6"; */
+"UOE-qO-9J6.normalTitle" = "脸谱登录";
+

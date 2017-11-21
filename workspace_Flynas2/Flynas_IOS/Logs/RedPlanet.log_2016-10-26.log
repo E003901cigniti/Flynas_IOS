@@ -1,0 +1,7 @@
+2016-10-26 16:24:03-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-10-26 16:24:15-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : validateTestLogin
+2016-10-26 16:24:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-10-26 16:24:48-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : validateTestLogin
+2016-10-26 16:27:48-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-10-26 16:29:19-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-10-26 16:29:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : validateTestLogin

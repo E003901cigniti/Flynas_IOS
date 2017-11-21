@@ -1,0 +1,685 @@
+2017-09-06 14:44:26-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-06 14:46:07-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2017-09-06 14:46:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-06 14:46:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-09-06 14:46:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-06 14:46:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-06 14:47:02-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-06 14:47:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-09-06 14:47:12-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-06 14:47:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-06 14:47:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-06 14:49:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-06 14:50:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Title*']/following-sibling::XCUIElementTypeButton[1]
+2017-09-06 14:50:57-main--INFO -com.ctaf.accelerators.TestEngine:Typing is not performed on Tittle
+2017-09-06 14:50:57-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-09-06 14:58:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-06 14:59:20-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEconomy_RUH_JED
+2017-09-06 14:59:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-06 14:59:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-09-06 15:00:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-06 15:00:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-06 15:00:16-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-06 15:00:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-09-06 15:00:26-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-06 15:00:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-06 15:00:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-06 15:02:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-06 15:03:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-09-06 15:05:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-09-06 15:06:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-09-06 15:07:03-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-09-06 15:07:27-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-09-06 15:10:57-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-09-06 15:11:21-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-09-06 15:11:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-09-06 15:31:16-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-06 15:32:10-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEconomy_RUH_JED
+2017-09-06 15:32:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-06 15:32:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-09-06 15:32:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-06 15:32:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-06 15:33:04-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-06 15:33:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-09-06 15:33:14-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-06 15:33:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-06 15:33:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-06 15:58:05-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-06 15:58:48-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_75_roundTripDomesticFlex_JED_MED
+2017-09-06 15:58:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-06 15:59:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-09-06 15:59:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-06 15:59:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-06 15:59:42-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-06 15:59:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-06 15:59:51-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-06 15:59:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on MED
+2017-09-06 15:59:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-06 16:01:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[2]/XCUIElementTypeButton[17]
+2017-09-06 16:02:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[2]/XCUIElementTypeButton[17]
+2017-09-06 16:14:11-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-06 16:15:25-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-06 16:16:07-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_07_oneWayDomesticEconomy_RUH_TUU
+2017-09-06 16:16:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-06 16:16:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-09-06 16:16:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-06 16:16:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-06 16:17:01-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-06 16:17:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-09-06 16:17:11-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-06 16:17:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on TUU
+2017-09-06 16:17:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-06 16:18:34-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 16:26:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-06 17:48:46-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-09-06 17:49:30-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEconomy_RUH_JED
+2017-09-06 17:49:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-06 17:49:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-09-06 17:50:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-06 17:50:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-06 17:50:24-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-06 17:50:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-09-06 17:50:34-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-06 17:50:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-09-06 17:50:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-06 17:51:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-06 17:53:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-09-06 17:55:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-09-06 17:56:17-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-09-06 17:56:40-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-09-06 18:01:44-main--INFO -com.ctaf.accelerators.TestEngine:Typing is not performed on Expiry Date
+2017-09-06 18:01:45-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-09-06 18:02:06-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticEconomy_RUH_DMM
+2017-09-06 18:02:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-06 18:02:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-09-06 18:02:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-06 18:02:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-06 18:03:01-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-06 18:03:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-09-06 18:03:10-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-06 18:03:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on DMM
+2017-09-06 18:03:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-06 18:03:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-06 18:10:55-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-09-06 18:10:56-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-09-06 18:11:16-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_03_oneWayDomesticEconomy_RUH_GIZ
+2017-09-06 18:11:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-06 18:11:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-09-06 18:11:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-06 18:12:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-06 18:12:10-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-06 18:12:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-09-06 18:12:20-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-06 18:12:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-09-06 18:12:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-06 18:13:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-06 18:20:12-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-09-06 18:20:12-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-09-06 18:20:32-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_oneWayDomesticEconomy_RUH_MED
+2017-09-06 18:20:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-06 18:21:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-09-06 18:21:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-06 18:21:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-06 18:21:27-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-06 18:21:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-09-06 18:21:36-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-06 18:21:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on MED
+2017-09-06 18:21:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-06 18:22:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-06 18:23:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-09-06 18:24:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-09-06 18:25:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-09-06 18:25:57-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-09-06 18:26:20-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-09-06 18:29:49-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-09-06 18:30:12-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-09-06 18:30:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-09-06 18:31:30-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-09-06 18:31:51-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomesticEconomy_RUH_TIF
+2017-09-06 18:32:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-06 18:32:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-09-06 18:32:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-06 18:32:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-06 18:32:45-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-06 18:32:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-09-06 18:32:55-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-06 18:32:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on TIF
+2017-09-06 18:33:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-06 18:33:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 18:34:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-06 18:41:33-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-09-06 18:41:33-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-09-06 18:41:54-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_06_oneWayDomesticEconomy_RUH_HAS
+2017-09-06 18:42:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-06 18:42:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-09-06 18:42:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-06 18:42:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-06 18:42:48-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-06 18:42:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-09-06 18:42:58-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-06 18:43:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on HAS
+2017-09-06 18:43:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-06 18:43:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 18:44:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 18:44:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-06 18:45:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-09-06 18:47:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-09-06 18:47:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-09-06 18:48:17-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-09-06 18:48:40-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-09-06 18:52:08-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-09-06 18:52:31-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-09-06 18:52:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-09-06 18:53:53-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-09-06 18:54:14-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_07_oneWayDomesticEconomy_RUH_TUU
+2017-09-06 18:54:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-06 18:54:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-09-06 18:54:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-06 18:55:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-06 18:55:08-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-06 18:55:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-09-06 18:55:17-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-06 18:55:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on TUU
+2017-09-06 18:55:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-06 18:55:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 18:56:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[12]
+2017-09-06 18:57:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-09-06 18:59:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-09-06 18:59:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-09-06 19:00:16-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-09-06 19:00:39-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-09-06 19:04:07-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-09-06 19:04:30-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-09-06 19:04:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-09-06 19:05:49-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-09-06 19:06:09-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_oneWayDomesticEconomy_RUH_URY
+2017-09-06 19:06:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-06 19:06:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-09-06 19:06:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-06 19:06:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-06 19:07:03-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-06 19:07:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-09-06 19:07:13-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-06 19:07:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on URY
+2017-09-06 19:07:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-06 19:07:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:08:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:08:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:09:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:09:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:10:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:10:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:11:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:11:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:12:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:12:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:13:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:13:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:14:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:14:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:15:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:15:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:15:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:16:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:16:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:17:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:17:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:18:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:18:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:19:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:19:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:20:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:20:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:21:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:21:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:22:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:22:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:23:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:23:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:24:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:24:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:25:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:25:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:26:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:26:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:27:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:27:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:28:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:28:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:28:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:29:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:29:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:30:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:30:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:31:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:31:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:32:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:32:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:33:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:33:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:34:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:34:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:35:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:35:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:36:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:36:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:37:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:37:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:38:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:38:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:39:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:39:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:40:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:40:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:41:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:41:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:42:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:42:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:43:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:43:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:44:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:44:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:44:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:45:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:45:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:46:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:46:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:47:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:47:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:50:54-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:51:58-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_09_oneWayDomesticEconomy_RUH_AJF
+2017-09-06 19:52:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-06 19:52:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-09-06 19:52:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-06 19:52:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-06 19:52:52-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-06 19:52:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-09-06 19:53:02-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-06 19:53:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AJF
+2017-09-06 19:53:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-06 19:53:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:54:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:54:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:55:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:55:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:56:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:56:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:56:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:57:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:57:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:58:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:58:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:59:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 19:59:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:00:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:00:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:01:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:01:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:02:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:02:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:03:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:03:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:04:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:04:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:05:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:05:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:06:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:06:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:07:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:07:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:08:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:08:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:09:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:09:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:09:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:10:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:10:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:11:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:11:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:12:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:12:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:13:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:13:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:14:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:14:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:15:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:15:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:16:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:16:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:17:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:17:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:18:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:18:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:19:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:19:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:20:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:20:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:21:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:21:59-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:25:08-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_oneWayDomesticEconomy_RUH_ABT
+2017-09-06 20:25:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-09-06 20:25:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-09-06 20:25:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-09-06 20:25:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-09-06 20:26:03-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-09-06 20:26:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-09-06 20:26:12-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-09-06 20:26:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on ABT
+2017-09-06 20:26:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-09-06 20:26:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:27:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:27:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:28:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:28:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:29:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:29:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:30:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:30:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:31:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:31:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:32:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:32:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:33:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:33:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:34:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:34:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:35:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:35:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:36:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:36:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:37:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:37:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:38:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:38:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:39:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:39:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:40:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:40:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:41:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:41:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:42:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:42:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:43:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:43:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:44:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:44:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:45:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:45:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:46:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:46:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:47:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:47:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:48:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:48:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:49:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:49:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:50:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:50:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:51:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:51:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:52:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:52:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:53:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:53:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:54:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:54:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:55:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:55:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:56:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:56:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:57:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:57:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:58:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:58:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:59:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:59:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 20:59:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:00:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:01:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:01:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:01:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:02:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:02:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:03:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:03:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:04:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:04:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:05:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:05:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:06:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:06:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:07:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:07:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:08:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:08:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:09:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:09:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:10:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:10:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:11:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:11:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:12:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:12:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:13:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:13:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:14:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:14:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:15:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:15:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:16:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:16:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:17:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:17:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:18:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:18:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:19:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:19:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:20:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:20:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:21:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:21:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:22:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:22:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:23:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:23:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:24:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:24:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:25:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:25:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:26:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:26:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:27:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:27:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:28:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:28:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:29:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:29:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:30:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:30:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:31:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:31:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:32:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:32:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:33:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:33:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:34:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:34:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:35:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:35:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:36:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:36:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:37:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:37:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:38:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:38:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:39:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:39:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:40:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:40:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:41:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:41:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:42:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:43:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:43:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:44:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:44:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:45:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:45:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:46:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:46:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:47:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:47:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:48:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:48:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:49:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:49:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:50:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:50:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:51:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:51:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:52:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:52:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:53:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:54:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:54:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:55:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:55:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:56:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:56:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:57:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:57:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:58:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:58:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:59:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 21:59:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:00:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:01:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:01:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:02:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:02:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:03:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:03:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:04:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:04:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:05:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:06:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:06:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:07:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:07:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:08:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:08:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:09:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:09:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:10:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:10:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:11:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:12:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:12:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:13:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:13:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:14:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:14:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:15:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:15:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:16:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:16:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:17:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:18:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:18:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:19:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:19:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:20:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:20:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:21:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:21:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:22:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:22:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:23:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:24:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:24:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:25:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:25:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:26:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:26:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:27:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:27:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:28:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:28:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:29:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:30:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:30:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:31:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:31:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:32:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:32:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:33:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:34:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:34:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:35:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:35:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:36:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:36:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:37:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:38:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:38:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:39:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:39:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:40:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:40:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:41:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:41:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:42:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:43:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:43:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:44:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:44:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:45:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:45:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:46:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:47:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:47:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:48:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:48:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:49:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:49:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:50:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:51:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:51:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:52:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:52:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:53:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:54:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:54:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:55:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:55:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:56:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:56:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:57:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:57:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:58:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:59:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 22:59:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:00:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:00:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:01:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:01:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:02:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:02:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:03:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:04:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:04:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:05:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:05:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:06:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:06:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:07:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:08:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:08:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:09:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:09:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:10:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:10:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:11:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:12:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:12:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2017-09-06 23:13:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']

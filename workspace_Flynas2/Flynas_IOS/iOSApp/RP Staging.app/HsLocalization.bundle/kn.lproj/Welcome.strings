@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "Forgot Your Password?"; ObjectID = "0Xb-9u-JpU"; */
+"0Xb-9u-JpU.normalTitle" = "Forgot Your Password?";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP USING EMAIL"; ObjectID = "2nR-nd-jf2"; */
+"2nR-nd-jf2.normalTitle" = "SIGN UP USING EMAIL";
+
+/* Class = "UITextField"; placeholder = "email@example.com #i!"; ObjectID = "5Jv-Ba-DNU"; */
+"5Jv-Ba-DNU.placeholder" = "email@example.com #i!";
+
+/* Class = "UIButton"; normalTitle = "HAVE AN ACCOUNT? LOGIN"; ObjectID = "Bif-QL-Vmv"; */
+"Bif-QL-Vmv.normalTitle" = "HAVE AN ACCOUNT? LOGIN";
+
+/* Class = "UIButton"; normalTitle = "CONNECT WITH FACEBOOK"; ObjectID = "Dj6-7t-BXl"; */
+"Dj6-7t-BXl.normalTitle" = "CONNECT WITH FACEBOOK";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "Dx1-Ng-oXQ"; */
+"Dx1-Ng-oXQ.normalTitle" = "Sign In";
+
+/* Class = "UINavigationItem"; title = "Sign Up"; ObjectID = "MvD-UZ-RKs"; */
+"MvD-UZ-RKs.title" = "Sign Up";
+
+/* Class = "UILabel"; text = "Error #i!"; ObjectID = "Tut-Km-dh9"; */
+"Tut-Km-dh9.text" = "Error #i!";
+
+/* Class = "UIButton"; normalTitle = "Sign In with Facebook"; ObjectID = "UOE-qO-9J6"; */
+"UOE-qO-9J6.normalTitle" = "Sign In with Facebook";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "bWc-9T-49p"; */
+"bWc-9T-49p.text" = "OR";
+
+/* Class = "UINavigationItem"; title = "Forgot Password"; ObjectID = "iw6-27-EyC"; */
+"iw6-27-EyC.title" = "Forgot Password";
+
+/* Class = "UINavigationItem"; title = "Sign In"; ObjectID = "lxH-B2-HUR"; */
+"lxH-B2-HUR.title" = "Sign In";

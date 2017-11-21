@@ -1,0 +1,125 @@
+2017-01-16 10:51:09-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 10:51:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2017-01-16 10:53:43-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 10:53:50-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusiness
+2017-01-16 10:54:34-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 11:05:20-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 11:05:27-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2017-01-16 11:07:50-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 11:07:57-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusiness
+2017-01-16 11:08:41-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 11:08:47-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_03_oneWayDomesticChangeDate
+2017-01-16 11:11:13-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 11:11:20-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusiness
+2017-01-16 11:14:03-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 11:14:03-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 11:18:46-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 11:18:53-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2017-01-16 11:21:15-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 11:21:23-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusiness
+2017-01-16 11:24:43-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_03_oneWayDomesticChangeDate
+2017-01-16 11:28:11-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 11:28:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_oneWayDomOneAdultCheckin
+2017-01-16 11:46:22-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_onewaydom8Business
+2017-01-16 12:19:07-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_06_oneWay2InternationalEco
+2017-01-16 12:19:52-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_07_RTDom4adultBusinessCC
+2017-01-16 12:20:37-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 12:20:38-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 12:20:45-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_RTInt1adult1Child1infantBus
+2017-01-16 12:21:23-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 12:21:30-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2017-01-16 12:31:24-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : OneAdultOnechildFlexCordshare
+2017-01-16 12:34:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11oneAdultoneChildoneInfantPartCodeShare
+2017-01-16 12:34:33-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 12:34:39-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2017-01-16 12:41:53-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_13_onewayDomesticwithUSdollars
+2017-01-16 12:45:14-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_14_oneWayDomesticwithEuro
+2017-01-16 12:48:34-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_15_EmpLoginOnewayOneAdultStaffStandByChangFlightCancel
+2017-01-16 12:49:11-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 12:49:20-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_16_EmpLoginStaffConfmedChangeDateCheckIn
+2017-01-16 12:55:28-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 12:55:35-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_17_memberLoginRTChangeflightCheckIN
+2017-01-16 12:56:29-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 12:56:36-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_18_corporateLoginRToneAdultCancelPNR
+2017-01-16 12:59:55-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_19_agencyLoginRToneAdultoneChild
+2017-01-16 13:03:01-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 13:03:01-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 13:03:11-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_20_memberRegistration
+2017-01-16 13:03:47-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 13:04:31-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 13:04:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_20_memberRegistration
+2017-01-16 13:05:15-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 13:05:30-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 13:05:41-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_20_memberRegistration
+2017-01-16 13:06:18-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 13:44:06-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 13:44:14-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_RTInt1adult1Child1infantBus
+2017-01-16 14:36:41-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 14:36:50-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_19_agencyLoginRToneAdultoneChild
+2017-01-16 14:40:00-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 14:40:01-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 14:45:16-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 14:45:22-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2017-01-16 14:47:24-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 14:47:33-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusiness
+2017-01-16 14:48:07-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 14:48:12-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_03_oneWayDomesticChangeDate
+2017-01-16 15:04:10-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 15:04:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusiness
+2017-01-16 15:08:44-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 15:08:51-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_RTInt1adult1Child1infantBus
+2017-01-16 15:15:08-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 15:15:15-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2017-01-16 15:15:33-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 15:15:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusiness
+2017-01-16 15:15:58-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 15:16:05-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_03_oneWayDomesticChangeDate
+2017-01-16 15:19:35-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 15:19:42-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_oneWayDomOneAdultCheckin
+2017-01-16 15:34:45-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_onewaydom8Business
+2017-01-16 15:43:11-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 15:43:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_06_oneWay2InternationalEco
+2017-01-16 15:44:05-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_07_RTDom4adultBusinessCC
+2017-01-16 15:44:33-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 15:44:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_RTInt1adult1Child1infantBus
+2017-01-16 15:47:54-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2017-01-16 15:58:02-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 15:58:09-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : OneAdultOnechildFlexCordshare
+2017-01-16 16:01:09-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11oneAdultoneChildoneInfantPartCodeShare
+2017-01-16 16:01:20-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 16:01:27-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2017-01-16 16:52:16-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 16:52:22-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2017-01-16 16:52:41-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 16:52:48-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusiness
+2017-01-16 16:53:06-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 16:53:13-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_03_oneWayDomesticChangeDate
+2017-01-16 16:56:28-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 16:56:35-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusiness
+2017-01-16 16:56:53-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 16:57:22-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 16:57:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2017-01-16 16:59:50-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusiness
+2017-01-16 17:03:13-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_03_oneWayDomesticChangeDate
+2017-01-16 17:09:18-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 17:09:25-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_oneWayDomOneAdultCheckin
+2017-01-16 17:24:28-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_onewaydom8Business
+2017-01-16 17:30:36-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_06_oneWay2InternationalEco
+2017-01-16 17:31:25-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_07_RTDom4adultBusinessCC
+2017-01-16 17:31:53-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 17:32:02-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_RTInt1adult1Child1infantBus
+2017-01-16 17:35:17-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2017-01-16 17:46:03-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 17:46:10-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : OneAdultOnechildFlexCordshare
+2017-01-16 17:49:08-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11oneAdultoneChildoneInfantPartCodeShare
+2017-01-16 17:49:19-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 17:49:26-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2017-01-16 17:55:30-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_13_onewayDomesticwithUSdollars
+2017-01-16 17:56:30-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 17:56:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_14_oneWayDomesticwithEuro
+2017-01-16 17:57:36-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 17:57:44-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_15_EmpLoginOnewayOneAdultStaffStandByChangFlightCancel
+2017-01-16 17:59:11-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-16 17:59:19-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_16_EmpLoginStaffConfmedChangeDateCheckIn
+2017-01-16 18:02:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-16 18:03:05-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_13_onewayDomesticwithUSdollars

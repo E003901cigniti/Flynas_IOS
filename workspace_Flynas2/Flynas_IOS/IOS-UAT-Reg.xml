@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > 
+
+<suite name="Flynas" allow-return-values="true" verbose="2">
+
+	<test name="Grouping" >
+		   <!-- <groups>
+				<run>
+					<include name="iphone"/>
+				</run>
+			</groups>  -->
+		<classes>	 	
+		    
+		  <class name="flynas.ios.uat.reg.TC01_oneWayDomesticEcoSADAD"/>
+		  <class name="flynas.ios.uat.reg.TC02_oneWayDomesticBusinessCC"/>
+		  <class name="flynas.ios.uat.reg.TC04_oneWayDomesticoneAdultCheckin"/>
+		  <class name="flynas.ios.uat.reg.TC06_oneWayInternatnlTwoAdultEco"/>
+		  <class name="flynas.ios.uat.reg.TC07_roundTripDomFourAdultBusines"/>
+		  <class name="flynas.ios.uat.reg.TC08_roundTripInt1Adt1chld1infntBusExtras"/>
+		  
+		</classes>
+	</test>
+
+</suite>

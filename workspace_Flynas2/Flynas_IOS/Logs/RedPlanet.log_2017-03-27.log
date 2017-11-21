@@ -1,0 +1,22 @@
+2017-03-27 16:11:20-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-27 16:12:50-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticEconomy_RUH_DMM
+2017-03-27 16:12:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-03-27 16:13:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-03-27 16:13:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-03-27 16:13:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-03-27 16:13:37-main--INFO -com.ctaf.accelerators.TestEngine:Typing is not performed on Origin
+2017-03-27 16:13:38-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-03-27 16:14:05-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-03-27 16:15:06-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticEconomy_RUH_DMM
+2017-03-27 16:15:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-03-27 16:15:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-03-27 16:15:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-03-27 16:15:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-03-27 16:15:44-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-03-27 16:15:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-03-27 16:15:55-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-03-27 16:15:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on DMM
+2017-03-27 16:16:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-03-27 16:17:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-03-27 16:19:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-03-27 16:20:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']

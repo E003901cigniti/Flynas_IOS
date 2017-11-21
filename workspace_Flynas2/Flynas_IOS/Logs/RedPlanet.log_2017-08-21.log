@@ -1,0 +1,5 @@
+2017-08-21 15:14:32-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-08-21 15:30:19-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-08-21 15:31:04-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_roundTripInt1Adt1chld1infntBusExtras
+2017-08-21 15:31:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-08-21 15:38:08-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='Title*']/following-sibling::XCUIElementTypeButton[1]

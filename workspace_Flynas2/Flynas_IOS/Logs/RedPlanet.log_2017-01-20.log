@@ -1,0 +1,58 @@
+2017-01-20 11:24:28-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 11:24:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_verifingServiceChargeperPerson
+2017-01-20 11:33:06-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 11:33:16-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_verifingServiceChargeperPerson
+2017-01-20 11:38:32-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 11:38:39-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_verifingServiceChargeperPerson
+2017-01-20 12:50:19-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 12:50:26-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_verifingserviceChargeForOWEconyDomestic
+2017-01-20 13:05:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 13:06:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_verifingserviceChargeForOWEconyDomestic
+2017-01-20 13:07:31-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 13:07:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_verifingserviceChargeForOWEconyDomestic
+2017-01-20 13:10:15-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 13:10:26-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_verifingChildDiscount
+2017-01-20 13:32:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 13:32:45-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_verifingserviceChargeForOWEconyDomestic
+2017-01-20 13:34:42-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 13:34:49-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_verifingserviceChargeForOWEconyDomestic
+2017-01-20 13:44:20-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 13:44:27-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_verifingserviceChargeForOWEconyDomestic
+2017-01-20 15:02:47-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 15:02:54-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_verifingserviceChargeForOWEconyDomestic
+2017-01-20 15:20:04-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 15:20:12-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_verifingSerCharChildDisRTFlexDom
+2017-01-20 15:20:22-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-20 15:21:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 15:21:46-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_verifingSerCharChildDisRTFlexDom
+2017-01-20 15:22:57-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-20 15:24:17-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 15:24:24-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_verifingSerCharChildDisRTFlexDom
+2017-01-20 15:28:04-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 15:28:12-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_verifingSerCharChildDisRTFlexDom
+2017-01-20 15:28:16-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-20 15:30:47-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 15:30:56-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_verifingSerCharChildDisRTFlexDom
+2017-01-20 15:31:55-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 15:32:02-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_verifingSerCharChildDisRTFlexDom
+2017-01-20 15:35:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 15:36:04-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_verifingSerCharChildDisRTFlexDom
+2017-01-20 15:41:17-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 15:41:26-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_verifingSerCharChildDisRTFlexDom
+2017-01-20 15:45:27-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 15:45:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_verifingSerCharChildDisRTFlexDom
+2017-01-20 15:53:35-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 15:53:43-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_verifingSerCharChildDisRTFlexDom
+2017-01-20 16:03:36-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 16:03:45-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_06_verifingServiceChargeRTBusinessDomestic
+2017-01-20 16:04:49-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-20 16:12:03-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 16:12:13-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_06_verifingServiceChargeRTBusinessDomestic
+2017-01-20 16:12:44-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-20 16:13:26-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 16:13:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_06_verifingServiceChargeRTBusinessDomestic
+2017-01-20 16:14:04-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-20 16:14:27-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 16:14:35-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_06_verifingServiceChargeRTBusinessDomestic
+2017-01-20 16:18:08-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-20 16:18:16-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_06_verifingServiceChargeRTBusinessDomestic

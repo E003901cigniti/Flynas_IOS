@@ -1,0 +1,93 @@
+
+/* Class = "UIButton"; normalTitle = "Open in Foursquare"; ObjectID = "1HK-Ra-hJm"; */
+"1HK-Ra-hJm.normalTitle" = "Open in Foursquare";
+
+/* Class = "UIButton"; normalTitle = "BOOK NOW"; ObjectID = "1iP-aM-nnv"; */
+"1iP-aM-nnv.normalTitle" = "BOOK NOW";
+
+/* Class = "UILabel"; text = "Distance #i!"; ObjectID = "5sT-qk-zu4"; */
+"5sT-qk-zu4.text" = "Distance #i!";
+
+/* Class = "UIButton"; normalTitle = "front desk"; ObjectID = "68Y-FL-n1y"; */
+"68Y-FL-n1y.normalTitle" = "front desk";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "8ho-EJ-mtX"; */
+"8ho-EJ-mtX.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "FkU-Ue-u7z"; */
+"FkU-Ue-u7z.normalTitle" = "0";
+
+/* Class = "UILabel"; text = "Address #i!"; ObjectID = "HMp-P0-juN"; */
+"HMp-P0-juN.text" = "Address #i!";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "Hlk-Kj-0FC"; */
+"Hlk-Kj-0FC.normalTitle" = "3";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP USING EMAIL"; ObjectID = "Ila-yR-bZY"; */
+"Ila-yR-bZY.normalTitle" = "SIGN UP USING EMAIL";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "MoJ-ng-Tbd"; */
+"MoJ-ng-Tbd.normalTitle" = "7";
+
+/* Class = "UIButton"; normalTitle = "#"; ObjectID = "QUS-4M-cHk"; */
+"QUS-4M-cHk.normalTitle" = "#";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "RFT-ne-woU"; */
+"RFT-ne-woU.normalTitle" = "6";
+
+/* Class = "UISegmentedControl"; SiF-Z3-rnl.segmentTitles[0] = "food"; ObjectID = "SiF-Z3-rnl"; */
+"SiF-Z3-rnl.segmentTitles[0]" = "food";
+
+/* Class = "UISegmentedControl"; SiF-Z3-rnl.segmentTitles[1] = "attractions"; ObjectID = "SiF-Z3-rnl"; */
+"SiF-Z3-rnl.segmentTitles[1]" = "attractions";
+
+/* Class = "UISegmentedControl"; SiF-Z3-rnl.segmentTitles[2] = "nightlife"; ObjectID = "SiF-Z3-rnl"; */
+"SiF-Z3-rnl.segmentTitles[2]" = "nightlife";
+
+/* Class = "UIButton"; normalTitle = "REGISTER PHONE"; ObjectID = "WE4-AU-Lop"; */
+"WE4-AU-Lop.normalTitle" = "REGISTER PHONE";
+
+/* Class = "UILabel"; text = "CALLING ROOM..."; ObjectID = "Wpq-YT-06O"; */
+"Wpq-YT-06O.text" = "CALLING ROOM...";
+
+/* Class = "UIButton"; normalTitle = "*"; ObjectID = "YdM-JH-3Vk"; */
+"YdM-JH-3Vk.normalTitle" = "*";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "aWO-gv-n66"; */
+"aWO-gv-n66.normalTitle" = "4";
+
+/* Class = "UIButton"; normalTitle = "HAVE AN ACCOUNT? LOGIN"; ObjectID = "fwH-Wl-Wx5"; */
+"fwH-Wl-Wx5.normalTitle" = "HAVE AN ACCOUNT? LOGIN";
+
+/* Class = "UILabel"; text = "#i!"; ObjectID = "gLe-sd-TpE"; */
+"gLe-sd-TpE.text" = "#i!";
+
+/* Class = "UILabel"; text = "Sub Category #i!"; ObjectID = "iCJ-ru-ZLe"; */
+"iCJ-ru-ZLe.text" = "Sub Category #i!";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "jeO-Ct-es2"; */
+"jeO-Ct-es2.normalTitle" = "2";
+
+/* Class = "UIButton"; normalTitle = "⌫"; ObjectID = "nnU-lh-L6B"; */
+"nnU-lh-L6B.normalTitle" = "⌫";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "oA5-HD-jxN"; */
+"oA5-HD-jxN.normalTitle" = "9";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "obg-Ls-xHk"; */
+"obg-Ls-xHk.normalTitle" = "8";
+
+/* Class = "UILabel"; text = "Attraction Name #i!"; ObjectID = "phj-2B-rca"; */
+"phj-2B-rca.text" = "Attraction Name #i!";
+
+/* Class = "UILabel"; text = "powered by"; ObjectID = "rg7-Ja-0TE"; */
+"rg7-Ja-0TE.text" = "powered by";
+
+/* Class = "UIButton"; normalTitle = "CONNECT WITH FACEBOOK"; ObjectID = "sv8-t8-UoB"; */
+"sv8-t8-UoB.normalTitle" = "CONNECT WITH FACEBOOK";
+
+/* Class = "UILabel"; text = "Sub Title #i!"; ObjectID = "tev-GF-oYo"; */
+"tev-GF-oYo.text" = "Sub Title #i!";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "xf5-X0-QEX"; */
+"xf5-X0-QEX.normalTitle" = "5";

@@ -1,0 +1,63 @@
+2017-01-10 10:29:13-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 10:29:28-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_16_EmpLoginStaffConfmedChangeDateCheckIn
+2017-01-10 10:29:54-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-10 10:30:09-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 10:30:16-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_16_EmpLoginStaffConfmedChangeDateCheckIn
+2017-01-10 10:39:59-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 10:40:08-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_17_memberLoginRTChangeflightCheckIN
+2017-01-10 10:41:00-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-10 10:41:08-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 10:41:15-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_17_memberLoginRTChangeflightCheckIN
+2017-01-10 10:44:31-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-10 11:10:13-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 11:10:20-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_18_corporateLoginRToneAdultCancelPNR
+2017-01-10 11:11:20-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 11:11:31-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_18_corporateLoginRToneAdultCancelPNR
+2017-01-10 11:16:05-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 11:16:15-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_18_corporateLoginRToneAdultCancelPNR
+2017-01-10 11:19:16-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 11:19:24-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_18_corporateLoginRToneAdultCancelPNR
+2017-01-10 11:21:39-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 11:21:46-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_18_corporateLoginRToneAdultCancelPNR
+2017-01-10 11:23:14-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-10 11:23:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 11:23:45-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_18_corporateLoginRToneAdultCancelPNR
+2017-01-10 11:25:15-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-10 11:27:47-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 11:27:54-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_18_corporateLoginRToneAdultCancelPNR
+2017-01-10 11:28:33-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-10 11:28:58-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 11:29:06-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_18_corporateLoginRToneAdultCancelPNR
+2017-01-10 11:34:01-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 11:34:11-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_18_corporateLoginRToneAdultCancelPNR
+2017-01-10 11:34:55-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-10 11:37:11-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 11:37:17-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_18_corporateLoginRToneAdultCancelPNR
+2017-01-10 11:40:34-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 11:40:41-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_18_corporateLoginRToneAdultCancelPNR
+2017-01-10 12:05:43-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 12:05:52-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_17_memberLoginRTChangeflightCheckIN
+2017-01-10 12:07:32-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 12:07:43-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_17_memberLoginRTChangeflightCheckIN
+2017-01-10 12:08:48-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-10 12:08:57-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 12:09:05-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_17_memberLoginRTChangeflightCheckIN
+2017-01-10 12:12:19-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 12:12:28-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_17_memberLoginRTChangeflightCheckIN
+2017-01-10 12:13:18-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-10 12:14:20-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 12:14:27-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_17_memberLoginRTChangeflightCheckIN
+2017-01-10 12:15:22-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-10 12:15:27-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 12:15:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_17_memberLoginRTChangeflightCheckIN
+2017-01-10 12:16:31-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-10 12:16:39-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 12:16:46-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_17_memberLoginRTChangeflightCheckIN
+2017-01-10 12:24:20-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 12:24:27-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_17_memberLoginRTChangeflightCheckIN
+2017-01-10 12:28:48-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 12:28:55-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_17_memberLoginRTChangeflightCheckIN
+2017-01-10 12:33:03-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 12:33:13-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_17_memberLoginRTChangeflightCheckIN
+2017-01-10 12:37:22-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-10 12:37:31-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_17_memberLoginRTChangeflightCheckIN

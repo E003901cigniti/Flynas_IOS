@@ -1,0 +1,94 @@
+2016-12-05 13:28:50-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 13:29:03-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : OnewayDomestic
+2016-12-05 13:30:07-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 13:30:27-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : OnewayDomestic
+2016-12-05 13:42:48-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 13:42:58-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2016-12-05 15:06:06-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 15:07:15-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 15:07:30-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2016-12-05 15:20:04-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 15:20:15-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2016-12-05 15:20:55-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 15:21:29-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 15:21:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2016-12-05 15:22:29-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 15:22:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2016-12-05 15:31:46-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 15:31:54-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2016-12-05 15:37:49-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 15:37:57-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2016-12-05 15:38:40-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 15:39:21-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 15:39:32-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2016-12-05 15:40:52-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 15:41:03-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2016-12-05 15:42:33-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 15:42:44-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2016-12-05 15:44:51-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 15:45:04-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2016-12-05 15:46:00-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 15:46:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2016-12-05 15:52:29-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 15:52:36-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2016-12-05 15:54:15-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 15:57:13-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 15:57:23-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2016-12-05 16:03:26-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 16:03:35-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2016-12-05 18:27:57-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 18:28:15-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 18:31:34-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 18:31:43-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 18:33:51-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 18:34:01-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 18:36:05-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 18:36:41-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 18:36:51-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 18:39:00-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 18:42:46-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 18:42:55-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 18:46:16-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 18:46:25-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 18:48:35-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 18:51:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 18:52:01-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 18:52:51-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 18:52:59-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 18:53:07-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 18:53:56-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 18:57:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 18:57:48-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 18:58:36-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 18:59:31-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 18:59:42-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 19:00:30-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 19:01:40-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 19:01:47-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 19:04:07-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 19:05:51-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 19:06:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 19:08:31-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 19:10:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 19:11:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 19:13:34-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 19:15:06-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 19:15:25-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 19:19:11-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 19:23:08-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 19:23:15-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 19:25:51-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 19:31:03-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 19:31:12-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 19:36:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 19:37:04-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 19:42:26-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 19:42:44-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 19:44:00-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 19:44:43-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 19:45:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 19:45:52-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2016-12-05 19:46:18-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 19:46:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2016-12-05 20:09:52-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2016-12-05 20:10:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell

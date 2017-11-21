@@ -1,0 +1,186 @@
+
+/* Class = "UILabel"; text = "(THB) #i!"; ObjectID = "2Rb-QL-b7K"; */
+"2Rb-QL-b7K.text" = "(THB) #i!";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "3Gz-Hy-rNT"; */
+"3Gz-Hy-rNT.normalTitle" = "Sign In";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "3PU-9J-WqT"; */
+"3PU-9J-WqT.text" = "Label #i!";
+
+/* Class = "UILabel"; text = "TOTAL"; ObjectID = "3Zt-f7-GsF"; */
+"3Zt-f7-GsF.text" = "TOTAL";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "4Mr-FF-qZV"; */
+"4Mr-FF-qZV.text" = "Label #i!";
+
+/* Class = "UILabel"; text = "incl. tax & Service Charge (THB 0.00)  #i!"; ObjectID = "5im-wO-cqt"; */
+"5im-wO-cqt.text" = "incl. tax & Service Charge (THB 0.00)  #i!";
+
+/* Class = "UILabel"; text = "SEE ALL"; ObjectID = "6cy-0r-Ay4"; */
+"6cy-0r-Ay4.text" = "SEE ALL";
+
+/* Class = "UILabel"; text = "THB #i!"; ObjectID = "79N-FP-KYp"; */
+"79N-FP-KYp.text" = "THB #i!";
+
+/* Class = "UILabel"; text = "(THB) #i!"; ObjectID = "7NY-2X-7Qv"; */
+"7NY-2X-7Qv.text" = "(THB) #i!";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "9DB-wz-Ivc"; */
+"9DB-wz-Ivc.text" = "Label #i!";
+
+/* Class = "UILabel"; text = "Per Night"; ObjectID = "9JQ-mB-bJm"; */
+"9JQ-mB-bJm.text" = "Per Night";
+
+/* Class = "UILabel"; text = "TOTAL"; ObjectID = "BEd-M1-sNU"; */
+"BEd-M1-sNU.text" = "TOTAL";
+
+/* Class = "UILabel"; text = "Includes TV, A/C, Towel & Toiletries Set, WIFIIncludes TV, A/C, Towel & Toiletries Set, WIFI #i!"; ObjectID = "BoM-W4-8eL"; */
+"BoM-W4-8eL.text" = "Includes TV, A/C, Towel & Toiletries Set, WIFIIncludes TV, A/C, Towel & Toiletries Set, WIFI #i!";
+
+/* Class = "UILabel"; text = "Sign up for our Remembered Loyalty Program \nand get 10% off on all your bookings."; ObjectID = "E6d-8x-40Z"; */
+"E6d-8x-40Z.text" = "Sign up for our Remembered Loyalty Program \nand get 10% off on all your bookings.";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "GbD-1P-0Aq"; */
+"GbD-1P-0Aq.title" = "Back";
+
+/* Class = "UILabel"; text = "100,100 #i!"; ObjectID = "HMd-dC-6d7"; */
+"HMd-dC-6d7.text" = "100,100 #i!";
+
+/* Class = "UILabel"; text = "THB #i!"; ObjectID = "Ixg-7t-YJ5"; */
+"Ixg-7t-YJ5.text" = "THB #i!";
+
+/* Class = "UILabel"; text = "Twin Room #i!"; ObjectID = "Jjn-Jf-JBQ"; */
+"Jjn-Jf-JBQ.text" = "Twin Room #i!";
+
+/* Class = "UILabel"; text = "TOTAL"; ObjectID = "KVW-0z-znK"; */
+"KVW-0z-znK.text" = "TOTAL";
+
+/* Class = "UILabel"; text = "TOTAL"; ObjectID = "L0x-VA-Baa"; */
+"L0x-VA-Baa.text" = "TOTAL";
+
+/* Class = "UILabel"; text = "ADD ONS #i!"; ObjectID = "Lcv-qC-voA"; */
+"Lcv-qC-voA.text" = "ADD ONS #i!";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE >"; ObjectID = "LpH-og-lgM"; */
+"LpH-og-lgM.normalTitle" = "CONTINUE >";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "MBT-gS-NH5"; */
+"MBT-gS-NH5.text" = "Label #i!";
+
+/* Class = "UILabel"; text = "Sign up for our Remembered loyalty program and get 10% off all your bookings on our app and website."; ObjectID = "MCv-Kc-ny9"; */
+"MCv-Kc-ny9.text" = "Sign up for our Remembered loyalty program and get 10% off all your bookings on our app and website.";
+
+/* Class = "UILabel"; text = "1,000.00 #i!"; ObjectID = "MN5-pr-hKA"; */
+"MN5-pr-hKA.text" = "1,000.00 #i!";
+
+/* Class = "UILabel"; text = "Sign up now\nRoom 1 Total #i!"; ObjectID = "MXw-wM-CdR"; */
+"MXw-wM-CdR.text" = "Sign up now\nRoom 1 Total #i!";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "OT4-6e-vS9"; */
+"OT4-6e-vS9.text" = "Label #i!";
+
+/* Class = "UIButton"; normalTitle = "BOOK NOW for 999 BAHT/NIGHT #i!"; ObjectID = "P0L-Dm-DbX"; */
+"P0L-Dm-DbX.normalTitle" = "BOOK NOW for 999 BAHT/NIGHT #i!";
+
+/* Class = "UILabel"; text = "About the Hotel"; ObjectID = "PDc-Iv-drs"; */
+"PDc-Iv-drs.text" = "About the Hotel";
+
+/* Class = "UILabel"; text = "THB #i!"; ObjectID = "QTX-hD-oOc"; */
+"QTX-hD-oOc.text" = "THB #i!";
+
+/* Class = "UINavigationItem"; title = "HOTEL INFO"; ObjectID = "SRM-b4-Em5"; */
+"SRM-b4-Em5.title" = "HOTEL INFO";
+
+/* Class = "UILabel"; text = "No available rooms for this date range"; ObjectID = "Tsg-mY-xkY"; */
+"Tsg-mY-xkY.text" = "No available rooms for this date range";
+
+/* Class = "UINavigationItem"; title = "BOOKING DETAILS"; ObjectID = "VcO-eZ-Oyd"; */
+"VcO-eZ-Oyd.title" = "BOOKING DETAILS";
+
+/* Class = "UILabel"; text = "100,100 #i!"; ObjectID = "Wwu-aw-a3g"; */
+"Wwu-aw-a3g.text" = "100,100 #i!";
+
+/* Class = "UILabel"; text = "incl. tax & Service Charge (THB 0.00) #i!"; ObjectID = "ZBN-PW-2Xt"; */
+"ZBN-PW-2Xt.text" = "incl. tax & Service Charge (THB 0.00) #i!";
+
+/* Class = "UILabel"; text = "Nearby Locations"; ObjectID = "ZEV-Nu-rJ4"; */
+"ZEV-Nu-rJ4.text" = "Nearby Locations";
+
+/* Class = "UILabel"; text = "(THB) #i!"; ObjectID = "ZuQ-hh-rkZ"; */
+"ZuQ-hh-rkZ.text" = "(THB) #i!";
+
+/* Class = "UILabel"; text = "+ American Breakfast #i!"; ObjectID = "a8b-WA-qGb"; */
+"a8b-WA-qGb.text" = "+ American Breakfast #i!";
+
+/* Class = "UILabel"; text = "SIGN UP NOW"; ObjectID = "aWt-dB-stE"; */
+"aWt-dB-stE.text" = "SIGN UP NOW";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "c0A-tZ-SrL"; */
+"c0A-tZ-SrL.normalTitle" = "CONTINUE";
+
+/* Class = "UILabel"; text = "1,999,999.00 #i!"; ObjectID = "ceD-uP-VUK"; */
+"ceD-uP-VUK.text" = "1,999,999.00 #i!";
+
+/* Class = "UILabel"; text = "100,100 #i!"; ObjectID = "dBL-IC-kdn"; */
+"dBL-IC-kdn.text" = "100,100 #i!";
+
+/* Class = "UILabel"; text = "incl. tax & Service Charge (THB 0.00) #i!"; ObjectID = "eXq-eZ-x6Z"; */
+"eXq-eZ-x6Z.text" = "incl. tax & Service Charge (THB 0.00) #i!";
+
+/* Class = "UILabel"; text = "100.00 #i!"; ObjectID = "eo7-EA-2DZ"; */
+"eo7-EA-2DZ.text" = "100.00 #i!";
+
+/* Class = "UILabel"; text = "100.00 #i!"; ObjectID = "f0s-xo-g19"; */
+"f0s-xo-g19.text" = "100.00 #i!";
+
+/* Class = "UILabel"; text = "ROOM 1 #i!"; ObjectID = "fG1-mc-s1B"; */
+"fG1-mc-s1B.text" = "ROOM 1 #i!";
+
+/* Class = "UILabel"; text = "Try other dates"; ObjectID = "g62-bf-exn"; */
+"g62-bf-exn.text" = "Try other dates";
+
+/* Class = "UILabel"; text = "ROOM 1 Total #i!"; ObjectID = "ieF-YN-PEy"; */
+"ieF-YN-PEy.text" = "ROOM 1 Total #i!";
+
+/* Class = "UILabel"; text = "Asoke #i!"; ObjectID = "ind-VW-fmp"; */
+"ind-VW-fmp.text" = "Asoke #i!";
+
+/* Class = "UILabel"; text = "(THB) #i!"; ObjectID = "jXh-w3-Vho"; */
+"jXh-w3-Vho.text" = "(THB) #i!";
+
+/* Class = "UILabel"; text = "Twin Room"; ObjectID = "kfG-Hp-EHF"; */
+"kfG-Hp-EHF.text" = "Twin Room";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "lEc-S1-jdC"; */
+"lEc-S1-jdC.text" = "Label #i!";
+
+/* Class = "UINavigationItem"; title = "ROOM DETAILS"; ObjectID = "mY5-Uf-Z68"; */
+"mY5-Uf-Z68.title" = "ROOM DETAILS";
+
+/* Class = "UILabel"; text = "incl. tax & Service Charge (THB 0.00) #i!"; ObjectID = "ngc-3z-CbG"; */
+"ngc-3z-CbG.text" = "incl. tax & Service Charge (THB 0.00) #i!";
+
+/* Class = "UILabel"; text = "+ American Breakfast #i!"; ObjectID = "oUE-SV-KLa"; */
+"oUE-SV-KLa.text" = "+ American Breakfast #i!";
+
+/* Class = "UIButton"; normalTitle = "SEE ON MAP"; ObjectID = "sRa-rQ-7a8"; */
+"sRa-rQ-7a8.normalTitle" = "SEE ON MAP";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "tmS-FH-crd"; */
+"tmS-FH-crd.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "+11 #i!"; ObjectID = "vYz-sM-zgP"; */
+"vYz-sM-zgP.normalTitle" = "+11 #i!";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "x5o-7q-s5g"; */
+"x5o-7q-s5g.text" = "Label #i!";
+
+/* Class = "UILabel"; text = "approx."; ObjectID = "xAW-O7-wJF"; */
+"xAW-O7-wJF.text" = "approx.";
+
+/* Class = "UILabel"; text = "OCCUPANTS"; ObjectID = "yiB-pA-HqP"; */
+"yiB-pA-HqP.text" = "OCCUPANTS";
+
+/* Class = "UILabel"; text = "1959 #i!"; ObjectID = "zXl-og-lxY"; */
+"zXl-og-lxY.text" = "1959 #i!";

@@ -1,0 +1,11 @@
+2017-10-12 11:44:18-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-10-12 11:45:16-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticEconomy_RUH_DMM
+2017-10-12 11:45:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Book
+2017-10-12 11:48:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2017-10-12 11:48:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Origin
+2017-10-12 11:48:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-10-12 11:48:28-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-10-12 11:48:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-10-12 11:48:41-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-10-12 11:48:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on DMM
+2017-10-12 11:49:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Passengers

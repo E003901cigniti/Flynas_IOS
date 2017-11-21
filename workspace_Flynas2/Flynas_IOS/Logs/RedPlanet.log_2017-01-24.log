@@ -1,0 +1,102 @@
+2017-01-24 10:48:29-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 10:48:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_07_verifingServiceChargewithMTEco
+2017-01-24 10:52:13-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 10:52:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_07_verifingServiceChargewithMTEco
+2017-01-24 10:54:57-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 10:55:05-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_09_verifingServiceChargewithMTBussiness
+2017-01-24 11:04:30-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 11:04:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_07_verifingServiceChargewithMTEco
+2017-01-24 11:12:15-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-24 11:12:15-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-24 11:14:22-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 11:14:36-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_07_verifingServiceChargewithMTEco
+2017-01-24 11:17:28-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 11:17:43-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_07_verifingServiceChargewithMTEco
+2017-01-24 11:30:44-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 11:30:51-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_09_verifingServiceChargewithMTBussiness
+2017-01-24 11:32:49-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 11:32:56-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_09_verifingServiceChargewithMTBussiness
+2017-01-24 11:34:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 11:34:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_09_verifingServiceChargewithMTBussiness
+2017-01-24 11:36:18-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 11:36:28-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_09_verifingServiceChargewithMTBussiness
+2017-01-24 11:38:27-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 11:38:34-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_09_verifingServiceChargewithMTBussiness
+2017-01-24 11:40:57-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 11:41:05-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 11:49:32-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 11:49:41-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 11:51:17-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-24 11:54:48-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 11:55:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 11:57:17-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-24 11:59:03-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 11:59:10-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 12:03:03-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 12:03:13-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 12:05:37-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-24 12:06:51-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 12:07:10-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 12:07:46-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 12:10:36-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 12:10:45-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 12:18:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 12:18:46-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 12:22:33-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 12:22:41-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 12:50:45-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 12:50:54-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 12:52:24-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 12:52:31-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 12:54:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 12:54:22-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 14:52:21-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 14:52:30-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 14:52:34-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-24 14:52:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 14:53:03-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 14:55:57-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 14:56:06-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 14:57:29-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-24 14:57:29-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-24 14:57:42-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 14:57:51-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 15:16:22-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 15:16:30-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 15:17:51-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 15:17:58-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 15:19:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 15:19:45-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 15:22:16-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 15:22:24-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 15:33:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 15:34:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 15:34:37-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-24 15:34:52-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 15:35:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 15:35:49-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-24 15:43:24-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 15:43:31-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 15:50:17-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 15:50:25-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 15:55:54-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 15:56:01-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 16:01:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 16:02:04-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 16:03:34-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-24 16:04:11-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 16:04:20-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 16:15:31-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 16:15:50-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 16:17:20-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-24 16:23:28-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 16:23:36-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 16:25:03-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-24 18:19:57-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 18:20:05-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 18:23:23-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 18:23:32-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 18:29:09-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 18:29:19-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic
+2017-01-24 18:32:46-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-24 18:32:53-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_verifingSerCharChildDisInArabic

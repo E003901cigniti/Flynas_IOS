@@ -1,0 +1,27 @@
+2017-01-23 11:50:23-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-23 11:50:32-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_verifingChildDiscount
+2017-01-23 17:23:40-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-23 17:23:49-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_verifingServiceChragewithMTSingleFlex
+2017-01-23 17:25:50-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-23 17:26:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_verifingServiceChragewithMTSingleFlex
+2017-01-23 17:29:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-23 17:30:07-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_verifingServiceChragewithMTSingleFlex
+2017-01-23 17:30:49-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-23 17:33:58-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-23 17:34:06-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_verifingServiceChragewithMTSingleFlex
+2017-01-23 17:34:30-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-23 17:35:43-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-23 17:35:51-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_verifingServiceChragewithMTSingleFlex
+2017-01-23 17:37:42-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-23 17:37:49-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_verifingServiceChragewithMTSingleFlex
+2017-01-23 17:41:36-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-23 17:41:44-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_verifingServiceChragewithMTSingleFlex
+2017-01-23 17:45:51-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-23 17:46:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_verifingServiceChragewithMTSingleFlex
+2017-01-23 17:48:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-23 17:49:02-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_verifingServiceChragewithMTSingleFlex
+2017-01-23 17:51:16-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-23 17:58:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-23 17:58:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_verifingServiceChragewithMTSingleFlex
+2017-01-23 18:10:13-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-23 18:10:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_verifingServiceChragewithMTSingleFlex

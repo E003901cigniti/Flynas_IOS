@@ -1,0 +1,42 @@
+/* Class = "UIButton"; normalTitle = "Open in Foursquare"; ObjectID = "1HK-Ra-hJm"; */
+"1HK-Ra-hJm.normalTitle" = "在foursquare上打开";
+
+/* Class = "UIButton"; normalTitle = "BOOK NOW"; ObjectID = "1iP-aM-nnv"; */
+"1iP-aM-nnv.normalTitle" = "现在预订";
+
+/* Class = "UILabel"; text = "ROOM NUMBER"; ObjectID = "2lT-oJ-y0e"; */
+"2lT-oJ-y0e.text" = "房间号";
+
+/* Class = "UIButton"; normalTitle = "front desk"; ObjectID = "68Y-FL-n1y"; */
+"68Y-FL-n1y.normalTitle" = "前台";
+
+/* Class = "UIButton"; normalTitle = "HAVE AN ACCOUNT? LOGIN"; ObjectID = "fwH-Wl-Wx5"; */
+"fwH-Wl-Wx5.normalTitle" = "有账户? 登录";
+
+/* Class = "UILabel"; text = "LAST NAME"; ObjectID = "Hzu-uV-mrg"; */
+"Hzu-uV-mrg.text" = "姓";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP USING EMAIL"; ObjectID = "Ila-yR-bZY"; */
+"Ila-yR-bZY.normalTitle" = "用电邮地址注册";
+
+/* Class = "UILabel"; text = "powered by"; ObjectID = "rg7-Ja-0TE"; */
+"rg7-Ja-0TE.text" = "搭载%@系统";
+
+/* Class = "UISegmentedControl"; SiF-Z3-rnl.segmentTitles[0] = "food"; ObjectID = "SiF-Z3-rnl"; */
+"SiF-Z3-rnl.segmentTitles[0]" = "餐饮场所";
+
+/* Class = "UISegmentedControl"; SiF-Z3-rnl.segmentTitles[1] = "attractions"; ObjectID = "SiF-Z3-rnl"; */
+"SiF-Z3-rnl.segmentTitles[1]" = "景点";
+
+/* Class = "UISegmentedControl"; SiF-Z3-rnl.segmentTitles[2] = "nightlife"; ObjectID = "SiF-Z3-rnl"; */
+"SiF-Z3-rnl.segmentTitles[2]" = "夜生活";
+
+/* Class = "UIButton"; normalTitle = "CONNECT WITH FACEBOOK"; ObjectID = "sv8-t8-UoB"; */
+"sv8-t8-UoB.normalTitle" = "连接脸谱";
+
+/* Class = "UIButton"; normalTitle = "REGISTER PHONE"; ObjectID = "WE4-AU-Lop"; */
+"WE4-AU-Lop.normalTitle" = "注册电话";
+
+/* Class = "UILabel"; text = "CALLING ROOM..."; ObjectID = "Wpq-YT-06O"; */
+"Wpq-YT-06O.text" = "正在呼叫客房…";
+

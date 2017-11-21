@@ -1,0 +1,425 @@
+2017-04-26 16:50:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-04-26 16:51:09-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-04-26 16:51:56-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEconomy_RUH_JED
+2017-04-26 16:52:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2017-04-26 16:52:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/*[@label='Login']
+2017-04-26 16:52:13-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2017-04-26 16:52:18-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2017-04-26 16:52:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Login']
+2017-04-26 16:52:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 16:52:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-04-26 16:52:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 16:52:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 16:52:58-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 16:53:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-04-26 16:53:07-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 16:53:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-04-26 16:53:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 16:53:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 16:54:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 16:54:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-04-26 16:55:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 16:55:09-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-04-26 16:55:18-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-04-26 16:55:31-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-04-26 16:55:39-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-04-26 16:55:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-04-26 16:56:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn home']
+2017-04-26 16:56:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Online check-in']
+2017-04-26 16:56:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='W8969J']/following-sibling::XCUIElementTypeButton
+2017-04-26 16:56:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='I agree to the Terms and Conditions.']/preceding-sibling::XCUIElementTypeButton
+2017-04-26 16:56:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-04-26 16:57:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-04-26 16:57:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 16:57:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-04-26 16:57:56-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticEconomy_RUH_DMM
+2017-04-26 16:58:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 16:58:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-04-26 16:58:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 16:58:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 16:58:27-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 16:58:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-04-26 16:58:36-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 16:58:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on DMM
+2017-04-26 16:58:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 16:59:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 16:59:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 17:00:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-04-26 17:00:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 17:00:29-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-04-26 17:00:38-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-04-26 17:00:50-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-04-26 17:00:59-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-04-26 17:01:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-04-26 17:01:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn home']
+2017-04-26 17:01:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Online check-in']
+2017-04-26 17:02:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='AEYMJR']/following-sibling::XCUIElementTypeButton
+2017-04-26 17:02:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='I agree to the Terms and Conditions.']/preceding-sibling::XCUIElementTypeButton
+2017-04-26 17:02:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-04-26 17:02:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-04-26 17:02:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 17:02:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-04-26 17:03:14-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_03_oneWayDomesticEconomy_RUH_GIZ
+2017-04-26 17:03:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 17:03:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-04-26 17:03:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 17:03:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 17:03:45-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 17:03:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-04-26 17:03:54-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 17:03:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-04-26 17:04:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 17:04:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 17:05:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 17:05:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-04-26 17:05:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 17:05:43-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-04-26 17:05:51-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-04-26 17:06:04-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-04-26 17:06:12-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-04-26 17:06:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-04-26 17:06:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn home']
+2017-04-26 17:06:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Online check-in']
+2017-04-26 17:07:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='A46M8C']/following-sibling::XCUIElementTypeButton
+2017-04-26 17:08:19-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-04-26 17:08:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_oneWayDomesticEconomy_RUH_MED
+2017-04-26 17:08:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 17:08:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-04-26 17:08:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 17:09:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 17:09:11-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 17:09:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-04-26 17:09:20-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 17:09:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on MED
+2017-04-26 17:09:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 17:10:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 17:10:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 17:11:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-04-26 17:11:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 17:11:20-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-04-26 17:11:28-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-04-26 17:11:41-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-04-26 17:11:49-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-04-26 17:11:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-04-26 17:12:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn home']
+2017-04-26 17:12:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Online check-in']
+2017-04-26 17:17:10-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-04-26 17:17:31-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomesticEconomy_RUH_TIF
+2017-04-26 17:17:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 17:17:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-04-26 17:17:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 17:17:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 17:18:02-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 17:18:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-04-26 17:18:11-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 17:18:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on TIF
+2017-04-26 17:18:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 17:19:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 17:19:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 17:20:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-04-26 17:20:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 17:20:30-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-04-26 17:20:39-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-04-26 17:20:51-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-04-26 17:21:00-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-04-26 17:21:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-04-26 17:21:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn home']
+2017-04-26 17:21:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Online check-in']
+2017-04-26 17:22:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='NY47XT']/following-sibling::XCUIElementTypeButton
+2017-04-26 17:22:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='I agree to the Terms and Conditions.']/preceding-sibling::XCUIElementTypeButton
+2017-04-26 17:22:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-04-26 17:22:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-04-26 17:23:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 17:23:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-04-26 17:23:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_06_oneWayDomesticEconomy_RUH_HAS
+2017-04-26 17:23:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 17:23:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-04-26 17:23:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 17:24:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 17:24:09-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 17:24:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-04-26 17:24:18-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 17:24:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on HAS
+2017-04-26 17:24:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 17:25:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 17:25:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 17:26:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-04-26 17:27:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 17:27:10-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-04-26 17:27:18-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-04-26 17:27:31-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-04-26 17:27:39-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-04-26 17:27:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-04-26 17:28:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn home']
+2017-04-26 17:28:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Online check-in']
+2017-04-26 17:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='P4VHRF']/following-sibling::XCUIElementTypeButton
+2017-04-26 17:29:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='I agree to the Terms and Conditions.']/preceding-sibling::XCUIElementTypeButton
+2017-04-26 17:29:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-04-26 17:29:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-04-26 17:29:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 17:29:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2017-04-26 17:30:13-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_07_oneWayDomesticEconomy_RUH_TUU
+2017-04-26 17:30:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 17:30:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-04-26 17:30:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 17:30:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 17:30:44-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 17:30:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-04-26 17:30:53-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 17:30:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on TUU
+2017-04-26 17:30:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 17:32:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 17:32:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 17:33:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-04-26 17:33:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 17:33:15-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-04-26 17:33:24-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-04-26 17:33:37-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-04-26 17:33:45-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-04-26 17:33:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-04-26 17:34:55-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-04-26 17:35:16-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_oneWayDomesticEconomy_RUH_URY
+2017-04-26 17:35:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 17:35:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-04-26 17:35:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 17:35:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 17:35:47-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 17:35:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-04-26 17:35:55-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 17:35:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on URY
+2017-04-26 17:36:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 17:36:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 17:37:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 17:37:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-04-26 17:37:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 17:37:55-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-04-26 17:38:04-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-04-26 17:38:16-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-04-26 17:38:25-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-04-26 17:38:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-04-26 17:39:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn home']
+2017-04-26 17:39:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Online check-in']
+2017-04-26 17:39:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='H4Q3MS']/following-sibling::XCUIElementTypeButton
+2017-04-26 17:40:44-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-04-26 17:41:03-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_09_oneWayDomesticEconomy_RUH_AJF
+2017-04-26 17:41:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 17:41:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-04-26 17:41:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 17:41:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 17:41:34-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 17:41:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-04-26 17:41:43-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 17:41:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AJF
+2017-04-26 17:41:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 17:42:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 17:42:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 17:42:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-04-26 17:42:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 17:43:04-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-04-26 17:43:13-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-04-26 17:43:25-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-04-26 17:43:33-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-04-26 17:43:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-04-26 17:44:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn home']
+2017-04-26 17:44:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Online check-in']
+2017-04-26 17:49:26-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-04-26 17:53:49-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-04-26 17:55:07-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_09_oneWayDomesticEconomy_RUH_AJF
+2017-04-26 17:55:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 17:55:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-04-26 17:55:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 17:55:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 17:55:38-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 17:55:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-04-26 17:55:47-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 17:55:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AJF
+2017-04-26 17:55:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 17:56:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 17:57:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 17:57:42-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-04-26 17:58:03-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_oneWayDomesticEconomy_RUH_ABT
+2017-04-26 17:58:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 17:58:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-04-26 17:58:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 17:58:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 17:58:34-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 17:58:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-04-26 17:58:42-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 17:58:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on ABT
+2017-04-26 17:58:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 17:59:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 18:00:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 18:00:22-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-04-26 18:00:43-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_roundTripDomesticEconomy_JED_DMM
+2017-04-26 18:00:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 18:00:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-04-26 18:01:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 18:01:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 18:01:14-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 18:01:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-04-26 18:01:22-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 18:01:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on DMM
+2017-04-26 18:01:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 18:02:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 18:02:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 18:03:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 18:03:35-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-04-26 18:03:57-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-04-26 18:04:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 18:04:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-04-26 18:04:58-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-04-26 18:05:39-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_09_oneWayDomesticEconomy_RUH_AJF
+2017-04-26 18:05:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 18:05:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-04-26 18:05:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 18:06:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 18:06:10-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 18:06:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-04-26 18:06:18-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 18:06:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AJF
+2017-04-26 18:06:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 18:07:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 18:08:46-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-04-26 18:09:06-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_oneWayDomesticEconomy_RUH_ABT
+2017-04-26 18:09:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 18:09:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-04-26 18:09:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 18:09:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 18:09:37-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 18:09:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-04-26 18:09:46-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 18:09:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on ABT
+2017-04-26 18:09:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 18:10:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 18:11:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 18:11:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-04-26 18:11:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 18:11:53-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-04-26 18:12:01-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-04-26 18:12:14-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-04-26 18:12:22-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-04-26 18:12:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-04-26 18:12:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn home']
+2017-04-26 18:13:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Online check-in']
+2017-04-26 18:21:57-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-04-26 18:22:41-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_09_oneWayDomesticEconomy_RUH_AJF
+2017-04-26 18:22:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 18:22:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-04-26 18:23:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 18:23:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 18:23:12-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 18:23:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-04-26 18:23:21-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 18:23:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AJF
+2017-04-26 18:23:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 18:24:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 18:24:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 18:24:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-04-26 18:24:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 18:25:06-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-04-26 18:25:15-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-04-26 18:25:28-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-04-26 18:25:36-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-04-26 18:25:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-04-26 18:26:46-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-04-26 18:27:07-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_oneWayDomesticEconomy_RUH_ABT
+2017-04-26 18:27:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 18:27:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-04-26 18:27:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 18:27:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 18:27:38-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 18:27:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-04-26 18:27:47-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 18:27:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on ABT
+2017-04-26 18:27:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 18:29:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 18:29:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 18:29:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-04-26 18:29:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 18:29:54-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-04-26 18:30:02-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-04-26 18:30:15-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-04-26 18:30:23-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-04-26 18:30:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-04-26 18:31:34-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-04-26 18:31:55-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_roundTripDomesticEconomy_JED_DMM
+2017-04-26 18:32:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 18:32:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-04-26 18:32:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 18:32:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 18:32:26-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 18:32:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-04-26 18:32:34-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 18:32:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on DMM
+2017-04-26 18:32:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 18:33:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 18:33:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 18:34:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 18:34:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-04-26 18:34:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 18:35:00-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-04-26 18:35:09-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-04-26 18:35:22-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-04-26 18:35:30-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-04-26 18:35:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-04-26 18:36:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn home']
+2017-04-26 18:36:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Manage my booking']
+2017-04-26 18:41:33-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-04-26 18:41:54-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_12_roundTripDomesticEconomy_JED_GIZ
+2017-04-26 18:41:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 18:42:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-04-26 18:42:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 18:42:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 18:42:25-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 18:42:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-04-26 18:42:33-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 18:42:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on GIZ
+2017-04-26 18:42:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 18:43:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 18:43:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 18:44:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 18:49:11-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-04-26 18:49:31-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_13_roundTripDomesticEconomy_JED_MED
+2017-04-26 18:49:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 18:49:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-04-26 18:49:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 18:49:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 18:50:02-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 18:50:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-04-26 18:50:11-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 18:50:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on MED
+2017-04-26 18:50:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 18:50:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 18:51:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 18:51:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 18:52:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-04-26 18:52:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 18:52:21-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-04-26 18:52:29-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-04-26 18:52:42-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-04-26 18:52:51-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-04-26 18:53:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-04-26 18:54:02-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-04-26 18:54:23-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_14_roundTripDomesticEconomy_JED_AHB
+2017-04-26 18:54:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-04-26 18:54:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-04-26 18:54:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-04-26 18:54:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-04-26 18:54:54-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-04-26 18:54:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-04-26 18:55:02-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-04-26 18:55:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AHB
+2017-04-26 18:55:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-04-26 18:55:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 18:56:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-04-26 18:56:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-04-26 18:57:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-04-26 18:57:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-04-26 18:57:21-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2017-04-26 18:57:30-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2017-04-26 18:57:43-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2017-04-26 18:57:51-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2017-04-26 18:58:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2017-04-26 18:58:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn home']
+2017-04-26 18:58:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Manage my booking']
+2017-04-26 21:25:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone

@@ -1,0 +1,47 @@
+2017-05-05 16:57:29-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-05-05 16:58:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_62_roundTripDomesticEconomyAddExtra_RUH_AHB
+2017-05-05 16:58:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-05-05 16:58:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-05-05 16:58:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-05-05 16:58:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-05-05 16:59:00-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-05-05 16:59:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-05-05 16:59:09-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-05-05 16:59:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AHB
+2017-05-05 16:59:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-05-05 17:00:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-05-05 17:00:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-05-05 17:00:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-05-05 17:02:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Add check-in baggage']/following-sibling::XCUIElementTypeButton
+2017-05-05 17:04:12-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-05-05 17:05:30-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_62_roundTripDomesticEconomyAddExtra_RUH_AHB
+2017-05-05 17:05:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-05-05 17:05:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-05-05 17:05:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-05-05 17:05:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-05-05 17:06:00-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-05-05 17:06:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-05-05 17:06:09-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-05-05 17:06:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AHB
+2017-05-05 17:06:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-05-05 17:07:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-05-05 17:07:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-05-05 17:07:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-05-05 17:08:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Add check-in baggage']/following-sibling::XCUIElementTypeButton
+2017-05-05 17:09:59-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-05-05 17:10:43-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_62_roundTripDomesticEconomyAddExtra_RUH_AHB
+2017-05-05 17:40:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-05-05 17:41:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_62_roundTripDomesticEconomyAddExtra_RUH_AHB
+2017-05-05 17:41:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-05-05 17:41:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Return']
+2017-05-05 17:41:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-05-05 17:41:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-05-05 17:41:52-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-05-05 17:41:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-05-05 17:42:01-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-05-05 17:42:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AHB
+2017-05-05 17:42:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-05-05 17:42:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-05-05 17:43:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-05-05 17:43:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-05-05 17:43:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Add check-in baggage']/following-sibling::XCUIElementTypeButton

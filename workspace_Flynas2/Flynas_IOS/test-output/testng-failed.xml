@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="2" name="Failed suite [Flynas]" allow-return-values="true">
+  <test name="Grouping(failed)">
+    <classes>
+      <class name="flynas.ios.uat.reg.TC02_oneWayDomesticBusinessCC">
+        <methods>
+          <include name="TC_02_oneWayDomesticBusinessCC"/>
+          <include name="tearDownMethod"/>
+          <include name="setupSuite"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- flynas.ios.uat.reg.TC02_oneWayDomesticBusinessCC -->
+      <class name="flynas.ios.uat.reg.TC04_oneWayDomesticoneAdultCheckin">
+        <methods>
+          <include name="TC_04_oneWayDomesticoneAdultCheckin"/>
+          <include name="tearDownMethod"/>
+        </methods>
+      </class> <!-- flynas.ios.uat.reg.TC04_oneWayDomesticoneAdultCheckin -->
+      <class name="flynas.ios.uat.reg.TC06_oneWayInternatnlTwoAdultEco">
+        <methods>
+          <include name="TC_06_oneWayInternatnlTwoAdultEco"/>
+          <include name="tearDownMethod"/>
+        </methods>
+      </class> <!-- flynas.ios.uat.reg.TC06_oneWayInternatnlTwoAdultEco -->
+      <class name="flynas.ios.uat.reg.TC07_roundTripDomFourAdultBusines">
+        <methods>
+          <include name="TC_06_oneWayInternatnlTwoAdultEco"/>
+          <include name="tearDownMethod"/>
+        </methods>
+      </class> <!-- flynas.ios.uat.reg.TC07_roundTripDomFourAdultBusines -->
+      <class name="flynas.ios.uat.reg.TC08_roundTripInt1Adt1chld1infntBusExtras">
+        <methods>
+          <include name="tearDownMethod"/>
+          <include name="TC_08_roundTripInt1Adt1chld1infntBusExtras"/>
+        </methods>
+      </class> <!-- flynas.ios.uat.reg.TC08_roundTripInt1Adt1chld1infntBusExtras -->
+      <class name="flynas.ios.uat.reg.TC01_oneWayDomesticEcoSADAD">
+        <methods>
+          <include name="reportHeader"/>
+          <include name="tearDownMethod"/>
+          <include name="TC_01_oneWayDomesticEcoSADAD"/>
+        </methods>
+      </class> <!-- flynas.ios.uat.reg.TC01_oneWayDomesticEcoSADAD -->
+    </classes>
+  </test> <!-- Grouping(failed) -->
+</suite> <!-- Failed suite [Flynas] -->

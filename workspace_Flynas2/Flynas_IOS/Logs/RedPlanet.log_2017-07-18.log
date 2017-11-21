@@ -1,0 +1,147 @@
+2017-07-18 14:04:40-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-07-18 14:05:32-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2017-07-18 14:05:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-07-18 14:05:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-07-18 14:06:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-07-18 14:06:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-07-18 14:06:21-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-07-18 14:06:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-07-18 14:06:31-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-07-18 14:06:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-07-18 14:06:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-07-18 14:08:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-07-18 14:12:49-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-07-18 14:13:34-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2017-07-18 14:13:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-07-18 14:13:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-07-18 14:14:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-07-18 14:14:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-07-18 14:14:22-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-07-18 14:14:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-07-18 14:14:32-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-07-18 14:14:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-07-18 14:14:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-07-18 14:16:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2017-07-18 14:17:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Title*']/following-sibling::XCUIElementTypeButton[1]
+2017-07-18 14:17:41-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Tittle
+2017-07-18 14:21:33-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on firstName
+2017-07-18 14:21:54-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on LastName
+2017-07-18 14:25:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Date of birth*']/following-sibling:: XCUIElementTypeButton[2]
+2017-07-18 14:25:35-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Date Of Birth
+2017-07-18 14:30:13-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on ID Number
+2017-07-18 14:33:27-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on naSmilyNumber
+2017-07-18 14:34:02-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on MobileNumber
+2017-07-18 14:37:25-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Email Address
+2017-07-18 14:40:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-07-18 14:51:06-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-07-18 14:51:50-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusinessCC
+2017-07-18 14:52:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-07-18 14:52:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-07-18 14:52:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-07-18 14:52:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-07-18 14:52:35-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-07-18 14:52:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-07-18 14:52:45-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-07-18 14:52:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-07-18 14:52:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-07-18 14:54:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[8]
+2017-07-18 14:57:02-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-07-18 14:57:47-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusinessCC
+2017-07-18 14:57:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-07-18 14:58:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-07-18 14:58:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-07-18 14:58:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-07-18 14:58:35-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-07-18 14:58:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-07-18 14:58:44-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-07-18 14:58:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-07-18 14:58:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-07-18 15:02:35-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-07-18 15:03:20-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusinessCC
+2017-07-18 15:03:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-07-18 15:03:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-07-18 15:03:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-07-18 15:04:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-07-18 15:04:08-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-07-18 15:04:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-07-18 15:04:18-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-07-18 15:04:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-07-18 15:04:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-07-18 15:09:42-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-07-18 15:10:28-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusinessCC
+2017-07-18 15:10:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-07-18 15:10:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-07-18 15:11:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-07-18 15:11:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-07-18 15:11:15-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-07-18 15:11:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-07-18 15:11:25-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-07-18 15:11:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-07-18 15:11:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-07-18 15:13:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[7]
+2017-07-18 15:14:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Title*']/following-sibling::XCUIElementTypeButton[1]
+2017-07-18 15:14:31-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Tittle
+2017-07-18 15:18:23-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on firstName
+2017-07-18 15:18:43-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on LastName
+2017-07-18 15:22:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Date of birth*']/following-sibling:: XCUIElementTypeButton[2]
+2017-07-18 15:22:26-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Date Of Birth
+2017-07-18 15:27:18-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on ID Number
+2017-07-18 15:30:45-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on naSmilyNumber
+2017-07-18 15:31:19-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on MobileNumber
+2017-07-18 15:34:42-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Email Address
+2017-07-18 15:35:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-07-18 15:36:28-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-07-18 15:37:14-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusinessCC
+2017-07-18 15:37:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Title*']/following-sibling::XCUIElementTypeButton[1]
+2017-07-18 15:38:33-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Tittle
+2017-07-18 15:39:19-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on firstName
+2017-07-18 15:40:03-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on LastName
+2017-07-18 15:40:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Date of birth*']/following-sibling:: XCUIElementTypeButton[2]
+2017-07-18 15:41:01-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Date Of Birth
+2017-07-18 15:41:23-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on ID Number
+2017-07-18 15:42:13-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on naSmilyNumber
+2017-07-18 15:44:00-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on MobileNumber
+2017-07-18 15:44:23-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Email Address
+2017-07-18 15:45:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-07-18 15:45:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-07-18 15:48:33-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-07-18 15:49:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusinessCC
+2017-07-18 15:50:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Title*']/following-sibling::XCUIElementTypeButton[1]
+2017-07-18 15:50:57-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Tittle
+2017-07-18 15:54:49-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on firstName
+2017-07-18 15:55:09-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on LastName
+2017-07-18 15:58:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Date of birth*']/following-sibling:: XCUIElementTypeButton[2]
+2017-07-18 15:58:49-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Date Of Birth
+2017-07-18 16:03:26-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on ID Number
+2017-07-18 16:06:53-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on naSmilyNumber
+2017-07-18 16:07:27-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on MobileNumber
+2017-07-18 16:10:50-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Email Address
+2017-07-18 16:11:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-07-18 16:12:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']
+2017-07-18 16:14:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Payment']
+2017-07-18 16:15:46-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-07-18 16:16:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusinessCC
+2017-07-18 16:25:18-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-07-18 16:26:01-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusinessCC
+2017-07-18 16:26:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Book flights']
+2017-07-18 16:26:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='One-way']
+2017-07-18 16:26:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeButton
+2017-07-18 16:26:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-07-18 16:26:49-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-07-18 16:26:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-07-18 16:26:58-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-07-18 16:27:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-07-18 16:27:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-07-18 16:28:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[7]
+2017-07-18 16:29:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Title*']/following-sibling::XCUIElementTypeButton[1]
+2017-07-18 16:29:38-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Tittle
+2017-07-18 16:33:30-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on firstName
+2017-07-18 16:33:50-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on LastName
+2017-07-18 16:37:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Date of birth*']/following-sibling:: XCUIElementTypeButton[2]
+2017-07-18 16:37:31-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Date Of Birth
+2017-07-18 16:42:07-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on ID Number
+2017-07-18 16:45:34-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on naSmilyNumber
+2017-07-18 16:46:09-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on MobileNumber
+2017-07-18 16:49:31-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Email Address
+2017-07-18 16:50:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Extras']
+2017-07-18 16:53:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue to Select Seat']

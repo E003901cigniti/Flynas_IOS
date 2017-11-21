@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "01 #i!"; ObjectID = "18Z-uV-djT"; */
+"18Z-uV-djT.text" = "01 #i!";
+
+/* Class = "UINavigationItem"; title = "CHOOSE COUNTRY"; ObjectID = "4Wt-7V-pCd"; */
+"4Wt-7V-pCd.title" = "CHOOSE COUNTRY";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "9V1-bI-wCf"; */
+"9V1-bI-wCf.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "xxx meters #i!"; ObjectID = "FEz-Ec-arg"; */
+"FEz-Ec-arg.text" = "xxx meters #i!";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "Gof-gW-Qnd"; */
+"Gof-gW-Qnd.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "View Rate From XXXX"; ObjectID = "Ka8-qX-9na"; */
+"Ka8-qX-9na.text" = "View Rate From XXXX";
+
+/* Class = "UILabel"; text = "ROOMS"; ObjectID = "Khu-3J-4Ev"; */
+"Khu-3J-4Ev.text" = "ROOMS";
+
+/* Class = "UIButton"; normalTitle = "SEARCH"; ObjectID = "M18-av-n0D"; */
+"M18-av-n0D.normalTitle" = "SEARCH";
+
+/* Class = "UILabel"; text = "123456789 #i!"; ObjectID = "MqK-NI-uIk"; */
+"MqK-NI-uIk.text" = "123456789 #i!";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "O0I-93-JMU"; */
+"O0I-93-JMU.title" = " ";
+
+/* Class = "UILabel"; text = "Asoke #i!"; ObjectID = "QGu-a8-6mm"; */
+"QGu-a8-6mm.text" = "Asoke #i!";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "QKd-9q-m6P"; */
+"QKd-9q-m6P.text" = "Label #i!";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "Z8q-eZ-5qB"; */
+"Z8q-eZ-5qB.text" = "Label #i!";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "atR-df-QQM"; */
+"atR-df-QQM.title" = " ";
+
+/* Class = "UILabel"; text = "Label #i!"; ObjectID = "tAh-5Y-Jhf"; */
+"tAh-5Y-Jhf.text" = "Label #i!";
+
+/* Class = "UITabBarItem"; title = "Book Now"; ObjectID = "xbA-vv-9Ro"; */
+"xbA-vv-9Ro.title" = "Book Now";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "ziS-In-mhF"; */
+"ziS-In-mhF.title" = " ";

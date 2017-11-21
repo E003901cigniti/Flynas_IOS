@@ -1,0 +1,97 @@
+2017-01-04 10:40:01-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-04 10:40:11-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2017-01-04 10:41:10-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-04 10:41:19-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2017-01-04 10:44:12-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusiness
+2017-01-04 10:47:17-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 10:47:18-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 10:47:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_03_oneWayDomesticChangeDate
+2017-01-04 10:50:58-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_oneWayDomOneAdultCheckin
+2017-01-04 10:56:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_onewaydom8Business
+2017-01-04 10:57:19-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 10:57:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_06_oneWay2InternationalEco
+2017-01-04 10:58:19-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_07_RTDom4adultBusinessCC
+2017-01-04 11:01:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_RTInt1adult1Child1infantBus
+2017-01-04 11:04:09-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2017-01-04 11:05:06-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 11:05:17-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : OneAdultOnechildFlexCordshare
+2017-01-04 11:06:08-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 11:06:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11oneAdultoneChildoneInfantPartCodeShare
+2017-01-04 11:06:28-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 11:06:36-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : PayWithCreditShell
+2017-01-04 11:07:14-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 12:00:58-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Chrome
+2017-01-04 12:01:06-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2017-01-04 12:04:01-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticBusiness
+2017-01-04 12:07:04-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 12:07:04-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 12:07:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_03_oneWayDomesticChangeDate
+2017-01-04 12:10:55-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 12:11:09-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_oneWayDomOneAdultCheckin
+2017-01-04 12:27:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_onewaydom8Business
+2017-01-04 12:28:21-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 12:28:31-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_06_oneWay2InternationalEco
+2017-01-04 12:29:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_07_RTDom4adultBusinessCC
+2017-01-04 12:32:15-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_08_RTInt1adult1Child1infantBus
+2017-01-04 12:33:25-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : Tc_09_RTInt1adult1Child1infantBus
+2017-01-04 12:36:27-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 12:36:35-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 12:36:54-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 12:37:20-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 13:08:58-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 13:09:31-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 13:09:55-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 13:16:55-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 13:17:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 13:40:35-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 13:43:09-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 13:43:31-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 13:45:20-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 13:45:44-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 13:53:41-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 13:54:04-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 13:54:34-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 13:54:58-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 14:10:11-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 14:26:34-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 14:26:59-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 14:49:52-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 15:05:37-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 15:06:02-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 15:06:36-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 15:07:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 15:14:10-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 15:14:34-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 15:29:34-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 15:34:05-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 15:34:28-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 15:54:12-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 16:05:09-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 16:05:34-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 16:06:50-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 16:07:15-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 16:27:21-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 16:27:45-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 16:28:48-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 16:29:12-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 16:29:45-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 16:30:09-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 16:53:30-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 16:53:57-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 16:54:23-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 17:18:16-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 17:21:40-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 17:22:05-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 17:32:43-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-01-04 17:34:12-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 17:34:36-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 17:45:12-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 17:45:54-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 17:46:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 17:47:07-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 17:49:06-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 17:49:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 17:51:54-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 17:52:27-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
+2017-01-04 17:58:09-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2017-01-04 17:58:34-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_05_oneWayDomNineAdultCheckin
