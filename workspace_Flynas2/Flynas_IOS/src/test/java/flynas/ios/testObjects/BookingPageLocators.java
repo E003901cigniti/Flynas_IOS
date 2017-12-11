@@ -14,6 +14,7 @@ public class BookingPageLocators extends ActionEngine{
 	//home page
 	public static By menu = By.xpath("//XCUIElementTypeOther/*[@label='btn menu']");
 	public static By login_lnk = By.xpath("//XCUIElementTypeCell[1]/*[@label='Login']");
+	public static By logout_lnk = By.xpath("//XCUIElementTypeButton[@name='Logout']");
 	public static By email  = By.xpath("//*[@value='Email']");
 	public static By password  = By.xpath("//*[@value='Password']");
 	public static By login_btn = By.xpath("//*[@label='Login']");

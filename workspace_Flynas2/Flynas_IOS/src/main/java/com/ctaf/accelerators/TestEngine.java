@@ -161,21 +161,8 @@ public class TestEngine extends HtmlReportSupport {
 		
 		if(browser.equalsIgnoreCase("iphone")){
 			try {
-				// ---------------------------------------------------
-				//System.out.println(System.getProperty("user.home")+"/Log/RPMob_" + timeStamp + ".log");
 				String logFile = System.getProperty("user.dir")+"/Logs/RPMob_"+System.currentTimeMillis()+".log";
 				System.out.println("In iphone block");
-			/*while (true) {
-				if (RedPlanetUtils.startAppiumForiOS(logFile)) {
-					break;
-				}
-			}
-			if ((new File(logFile).exists())) {
-				System.out.println("Log File Created by Appium at path : " + System.getProperty("user.dir")
-						+ "/Log/RPMob_" + timeStamp + ".log");
-			}
-			Thread.sleep(10000);*/
-				// -----------------------------------------------------
 				DeviceName = configProps.getProperty("iOSDeviceName");
 				String device = configProps.getProperty("Device");
 				String appPath = configProps.getProperty("appPath");
@@ -485,6 +472,7 @@ public class TestEngine extends HtmlReportSupport {
 		} finally {
 			if ((browser.toLowerCase().contains("iphone"))) {
 				Iosdriver.closeApp();
+				//Iosdriver.resetApp();
 			}else if(browser.toLowerCase().contains("android")){ 
 				//AndroidDriver2.closeApp();
 				

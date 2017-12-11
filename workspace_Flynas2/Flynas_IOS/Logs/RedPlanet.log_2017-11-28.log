@@ -1,0 +1,7 @@
+2017-11-28 13:10:43-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-11-28 13:22:48-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-11-28 13:29:09-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-11-28 13:30:03-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEconomy_RUH_JED
+2017-11-28 13:30:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2017-11-28 13:31:30-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //XCUIElementTypeCell[1]/*[@label='Login']
+2017-11-28 13:31:31-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot

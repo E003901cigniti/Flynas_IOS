@@ -32,9 +32,9 @@ public class TC02_oneWayDomesticEconomy_RUH_DMM extends BookingPageFlow{
 
 // ***IMP***Do not uncomment the bellow four lines unless you are starting the test suite
 //with this test case and make sure the app is logout out in the device	
-//			click(BookingPageLocators.menu, "Menu");
-//			click(BookingPageLocators.login_lnk, "Login");
-//			login(username,password);
+			click(BookingPageLocators.menu, "Menu");
+			click(BookingPageLocators.login_lnk, "Login");
+			login(username,password);
 			
 			selectBookFlights();			
 			inputBookingDetails(tripType, origin, dest, deptDate, origin2, departure2, retdate,Audalt, Child, infant,promo,Currency);

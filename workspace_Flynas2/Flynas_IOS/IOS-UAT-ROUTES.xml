@@ -24,7 +24,7 @@
 						<class name="flynas.ios.uat.routes.TC08_oneWayDomesticEconomy_RUH_URY"/> 
 						<class name="flynas.ios.uat.routes.TC09_oneWayDomesticEconomy_RUH_AJF"/>  
 						<class name="flynas.ios.uat.routes.TC10_oneWayDomesticEconomy_RUH_ABT"/>  
-				<!-- 		<class name="flynas.ios.uat.routes.TC11_roundTripDomesticEconomy_JED_DMM"/>
+				 		<class name="flynas.ios.uat.routes.TC11_roundTripDomesticEconomy_JED_DMM"/>
 						<class name="flynas.ios.uat.routes.TC12_roundTripDomesticEconomy_JED_GIZ"/>
 						<class name="flynas.ios.uat.routes.TC13_roundTripDomesticEconomy_JED_MED"/>
 						<class name="flynas.ios.uat.routes.TC14_roundTripDomesticEconomy_JED_AHB"/>
@@ -74,7 +74,7 @@
 						<class name="flynas.ios.uat.routes.TC59_multiCityInternationalEconomy_DMM_KRT"/>
 						<class name="flynas.ios.uat.routes.TC60_multiCityInternationalEconomy_RUH_BAH"/>
 						<class name="flynas.ios.uat.routes.TC61_multiCityInternationalEconomy_JED_BAH"/>
-						<class name="flynas.ios.uat.routes.TC62_roundTripDomesticEconomyAddExtra_RUH_AHB"/> -->
+						<class name="flynas.ios.uat.routes.TC62_roundTripDomesticEconomyAddExtra_RUH_AHB"/>
 						
 					<!--******************************Flex********************************** -->	
 		

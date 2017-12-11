@@ -1003,7 +1003,12 @@ public class BookingPageFlow extends BookingPageLocators{
 		}
 	}
 	public void login(String email,String pwd) throws Throwable
-	{
+	{ if(isElementPresent(BookingPageLocators.login_lnk)==false)
+		{
+		scrollJS(BookingPageLocators.logout_lnk);
+		click(BookingPageLocators.logout_lnk, "Logout");
+		}
+		click(BookingPageLocators.login_lnk, "Login");
 		type(BookingPageLocators.email, email, "EmailAddress");
 		type(BookingPageLocators.password, pwd, "Password");
 		click(BookingPageLocators.login_btn, "Login");

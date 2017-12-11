@@ -1,0 +1,20 @@
+2017-11-30 15:40:02-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-11-30 15:41:14-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEconomy_RUH_JED
+2017-11-30 15:41:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2017-11-30 15:47:37-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //XCUIElementTypeCell[1]/*[@label='Logout']
+2017-11-30 15:47:41-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-30 16:04:23-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-11-30 16:04:42-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEconomy_RUH_JED
+2017-11-30 16:04:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2017-11-30 16:22:05-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-11-30 16:23:20-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEconomy_RUH_JED
+2017-11-30 16:23:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2017-11-30 16:25:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeButton[@name='Logout']
+2017-11-30 16:26:08-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //XCUIElementTypeCell[1]/*[@label='Login']
+2017-11-30 16:26:10-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-30 16:26:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_oneWayDomesticEconomy_RUH_DMM
+2017-11-30 16:26:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Book
+2017-11-30 17:33:45-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-11-30 18:10:36-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-11-30 18:55:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-11-30 18:57:12-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone

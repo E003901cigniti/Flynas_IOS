@@ -11,11 +11,11 @@
 		<classes>	 	
 		    
 		  <class name="flynas.ios.uat.reg.TC01_oneWayDomesticEcoSADAD"/>
-		  <class name="flynas.ios.uat.reg.TC02_oneWayDomesticBusinessCC"/>
+		<!--  <class name="flynas.ios.uat.reg.TC02_oneWayDomesticBusinessCC"/>
 		  <class name="flynas.ios.uat.reg.TC04_oneWayDomesticoneAdultCheckin"/>
 		  <class name="flynas.ios.uat.reg.TC06_oneWayInternatnlTwoAdultEco"/>
 		  <class name="flynas.ios.uat.reg.TC07_roundTripDomFourAdultBusines"/>
-		  <class name="flynas.ios.uat.reg.TC08_roundTripInt1Adt1chld1infntBusExtras"/>
+		  <class name="flynas.ios.uat.reg.TC08_roundTripInt1Adt1chld1infntBusExtras"/> -->
 		  
 		</classes>
 	</test>

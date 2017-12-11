@@ -30,7 +30,7 @@ public class TC01_oneWayDomesticEconomy_RUH_JED extends BookingPageFlow{
 			TestEngine.testDescription.put(HtmlReportSupport.tc_name, Description);
 			System.out.println(driver.getSessionId());
 			click(BookingPageLocators.menu, "Menu");
-			click(BookingPageLocators.login_lnk, "Login");
+			//click(BookingPageLocators.login_lnk, "Login");
 			login(username,password);
 			
 			selectBookFlights();			
