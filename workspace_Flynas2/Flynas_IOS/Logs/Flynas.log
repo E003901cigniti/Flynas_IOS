@@ -1,0 +1,7 @@
+2018-07-16 13:03:47-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-07-16 13:05:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_2a_oneWayDomesticBusinessCC
+2018-07-16 13:05:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-07-16 13:05:24-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-07-16 13:05:41-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-07-16 13:05:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-07-16 13:05:45-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot

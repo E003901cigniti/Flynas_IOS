@@ -1,0 +1,16 @@
+2018-05-22 19:26:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-22 19:27:49-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_2a_oneWayDomesticBusinessCC
+2018-05-22 19:28:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-05-22 19:28:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-05-22 19:29:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-05-22 19:29:27-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-05-22 19:29:44-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-05-22 19:29:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-05-22 19:30:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-22 19:31:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-22 19:31:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-22 19:31:17-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-22 19:31:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-05-22 19:31:23-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-22 19:31:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on DMM
+2018-05-22 19:31:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Departure Date']/../XCUIElementTypeButton

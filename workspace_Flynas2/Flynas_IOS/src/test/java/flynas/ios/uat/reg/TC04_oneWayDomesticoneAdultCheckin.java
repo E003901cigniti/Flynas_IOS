@@ -17,12 +17,12 @@ import flynas.ios.workflows.BookingPageFlow;
 
 public class TC04_oneWayDomesticoneAdultCheckin extends BookingPageFlow{
 		
-	ExcelReader xls = new ExcelReader(configProps.getProperty("TestData"),"TestData");
+	ExcelReader xls = new ExcelReader(configProps.getProperty("TestData_UAT_Reg"),"TC04_oneWayDomAdultCheckin");
 
 	@Test(dataProvider = "testData",groups={"ios"})
 	public  void TC_04_oneWayDomesticoneAdultCheckin(String tripType, String origin, String dest,String deptDate,
-			String origin2,String departure2, String retdate,String Audalt,String Child,String infant, String promo, 
-			String strBookingClass,String FlightType,String totalpass,String namtionality,String Doctypr,String docNumber,
+			String origin2,String departure2, String retdate,String Adult,String Child,String infant, String promo, 
+			String bookingClass, String bundle,String FlightType,String totalpass,String nationality,String docType,String docNumber,
 			String naSmiles,String Mobile,String email ,String SelectSeat,String paymenttype,String bookingtype, 
 			String charity,String Currency,String username,String password, String Description) throws Throwable {
 		try {
@@ -30,10 +30,10 @@ public class TC04_oneWayDomesticoneAdultCheckin extends BookingPageFlow{
 			TestEngine.testDescription.put(HtmlReportSupport.tc_name, Description);
 
 			selectBookFlights();			
-			inputBookingDetails(tripType, origin, dest, deptDate, origin2, departure2, retdate,Audalt, Child, infant,promo,Currency);
-			selectClass(strBookingClass, tripType);
+			inputBookingDetails(tripType, origin, dest, deptDate, origin2, departure2, retdate,Adult, Child, infant,promo,Currency);
+			selectClass(bookingClass, bundle);
 			
-			//inputPassengerDetails(FlightType,totalpass,namtionality,Doctypr,docNumber,naSmiles,Mobile,email,"","","");
+			String[] name = inputPassengerDetails(FlightType,totalpass,nationality,docType,docNumber,naSmiles,Mobile,email,"","","");
 			
 			waitforElement(BookingPageLocators.passengertitle);
 			scrollJS(BookingPageLocators.selectExtras_btn);
@@ -45,12 +45,12 @@ public class TC04_oneWayDomesticoneAdultCheckin extends BookingPageFlow{
 			selectallSeats(SelectSeat, totalpass, tripType);
 			paymentoption("Otherpayment");
 			payment(paymenttype,"");
-			String pnr = getReferenceNumber();
+			String pnr = getReferenceNumber().trim();
 			validate_ticketStatus(pnr);
 			selectHome(); 
 			selectCheckIn(); 
-			searchFlight(pnr, email, "", "");
-			performCheckin(SelectSeat, paymenttype, "");
+			searchFlightCheckin(pnr,name[1]);
+			performCheckin();
 			if(isElementPresent(BookingPageLocators.travelDocuments)==true){
 				click(BookingPageLocators.continuebtn, "Continue");
 				driver.manage().timeouts().implicitlyWait(10000,TimeUnit.MILLISECONDS);
@@ -81,13 +81,13 @@ public class TC04_oneWayDomesticoneAdultCheckin extends BookingPageFlow{
 				xls.getCellValue("Child Count", "Value"),
 				xls.getCellValue("Infant Count", "Value"),
 				xls.getCellValue("Promo", "Value"),
-				xls.getCellValue("Booking Class", "Value"),
+				xls.getCellValue("Booking Class", "Value"),xls.getCellValue("Bundle", "Value"),
 				xls.getCellValue("Flight Type", "Value"),
 				xls.getCellValue("Total Passenger", "Value"),
 				xls.getCellValue("Nationality", "Value"),
 				xls.getCellValue("Document Type", "Value"),
 				xls.getCellValue("Doc Number", "Value"),
-				"1234567890",
+				"",
 				xls.getCellValue("Mobile", "Value"),
 				xls.getCellValue("Email Address", "Value"),
 				xls.getCellValue("Select Seat", "Value"),

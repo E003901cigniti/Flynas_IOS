@@ -1,0 +1,216 @@
+2018-03-11 13:21:26-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 13:22:30-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC0_2g_oneWayDomesticEcoSADAD
+2018-03-11 13:22:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 13:22:53-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-03-11 13:23:09-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-03-11 13:23:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 13:23:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-03-11 13:23:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-03-11 13:23:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-03-11 13:24:04-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-03-11 13:24:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-03-11 13:24:11-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-03-11 13:24:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-03-11 13:24:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-03-11 13:25:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Extras
+2018-03-11 13:26:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Seat
+2018-03-11 13:27:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeButton[@name='Select']
+2018-03-11 13:33:12-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 13:34:03-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC0_2g_oneWayDomesticEcoSADAD
+2018-03-11 13:34:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-03-11 13:35:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-03-11 13:35:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 13:35:46-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-03-11 13:36:02-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-03-11 13:36:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 13:36:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-03-11 13:36:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-03-11 13:36:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-03-11 13:36:59-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-03-11 13:37:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-03-11 13:37:06-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-03-11 13:37:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-03-11 13:37:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-03-11 13:38:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Extras
+2018-03-11 13:39:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Seat
+2018-03-11 13:45:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeButton[@name='Select']
+2018-03-11 14:03:28-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 14:04:03-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC0_2g_oneWayDomesticEcoSADAD
+2018-03-11 14:04:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-03-11 14:05:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-03-11 14:05:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 14:05:51-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-03-11 14:06:06-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-03-11 14:06:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 14:06:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-03-11 14:06:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-03-11 14:06:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-03-11 14:07:00-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-03-11 14:07:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-03-11 14:07:07-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-03-11 14:07:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-03-11 14:07:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-03-11 14:08:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Extras
+2018-03-11 14:08:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Seat
+2018-03-11 14:10:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeButton[@name='Select']
+2018-03-11 14:12:10-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on Continue to Payment
+2018-03-11 14:12:15-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-03-11 15:12:45-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 15:13:01-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC0_2g_oneWayDomesticEcoSADAD
+2018-03-11 15:13:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-03-11 15:14:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-03-11 15:14:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 15:14:47-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-03-11 15:15:03-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-03-11 15:15:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 15:15:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-03-11 15:15:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-03-11 15:15:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-03-11 15:16:02-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-03-11 15:16:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-03-11 15:16:09-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-03-11 15:16:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-03-11 15:16:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-03-11 15:17:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Extras
+2018-03-11 15:18:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Seat
+2018-03-11 15:18:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Payment
+2018-03-11 15:19:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Other payment options']/preceding-sibling::XCUIElementTypeButton
+2018-03-11 15:24:33-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 15:24:48-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC0_2g_oneWayDomesticEcoSADAD
+2018-03-11 15:25:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-03-11 15:25:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-03-11 15:26:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 15:26:29-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-03-11 15:26:45-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-03-11 15:26:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 15:27:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-03-11 15:27:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-03-11 15:27:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-03-11 15:27:41-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-03-11 15:27:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-03-11 15:27:47-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-03-11 15:27:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-03-11 15:27:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-03-11 15:28:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Extras
+2018-03-11 15:29:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Seat
+2018-03-11 15:30:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Payment
+2018-03-11 15:30:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Other payment options']/preceding-sibling::XCUIElementTypeButton
+2018-03-11 15:34:05-main--INFO -com.ctaf.accelerators.TestEngine:Typing is not performed on Card Number
+2018-03-11 15:34:07-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-03-11 15:39:41-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 15:40:07-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 15:48:46-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 15:49:51-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC0_2g_oneWayDomesticEcoSADAD
+2018-03-11 15:50:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-03-11 15:50:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-03-11 15:51:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 15:51:32-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-03-11 15:51:47-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-03-11 15:51:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 15:52:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-03-11 15:52:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-03-11 15:52:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-03-11 15:52:42-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-03-11 15:52:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-03-11 15:52:48-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-03-11 15:52:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-03-11 15:52:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-03-11 15:53:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Extras
+2018-03-11 15:55:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Payment
+2018-03-11 15:55:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Other payment options']/preceding-sibling::XCUIElementTypeButton
+2018-03-11 15:57:38-main--INFO -com.ctaf.accelerators.TestEngine:Typing is not performed on Card Number
+2018-03-11 15:57:42-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-03-11 16:03:48-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 16:04:03-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC0_2g_oneWayDomesticEcoSADAD
+2018-03-11 16:04:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-03-11 16:05:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-03-11 16:05:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 16:05:48-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-03-11 16:06:04-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-03-11 16:06:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 16:06:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-03-11 16:06:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-03-11 16:06:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-03-11 16:06:58-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-03-11 16:06:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-03-11 16:07:05-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-03-11 16:07:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-03-11 16:07:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-03-11 16:08:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Extras
+2018-03-11 16:09:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Payment
+2018-03-11 16:09:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Other payment options']/preceding-sibling::XCUIElementTypeButton
+2018-03-11 16:25:52-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 16:26:07-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC0_2g_oneWayDomesticEcoSADAD
+2018-03-11 16:26:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-03-11 16:27:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-03-11 16:27:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 16:27:48-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-03-11 16:28:04-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-03-11 16:28:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 16:28:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-03-11 16:28:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-03-11 16:28:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-03-11 16:28:58-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-03-11 16:28:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-03-11 16:29:04-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-03-11 16:29:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-03-11 16:29:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-03-11 16:30:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Extras
+2018-03-11 16:31:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Payment
+2018-03-11 16:31:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Other payment options']/preceding-sibling::XCUIElementTypeButton
+2018-03-11 17:00:32-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 17:00:57-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 17:01:12-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_oneWayDomesticoneAdultCheckin
+2018-03-11 17:01:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 17:02:10-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_oneWayDomesticoneAdultCheckin
+2018-03-11 17:03:50-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-03-11 17:09:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 17:10:09-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_oneWayDomesticoneAdultCheckin
+2018-03-11 17:11:41-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-03-11 17:16:55-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 17:17:09-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_oneWayDomesticoneAdultCheckin
+2018-03-11 17:20:24-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-03-11 17:22:21-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 17:22:35-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_oneWayDomesticoneAdultCheckin
+2018-03-11 17:33:06-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 17:33:20-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_oneWayDomesticoneAdultCheckin
+2018-03-11 17:34:37-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 17:34:52-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_04_oneWayDomesticoneAdultCheckin
+2018-03-11 17:37:38-main--INFO -com.ctaf.accelerators.TestEngine:Typing is not performed on Reference Number
+2018-03-11 17:37:39-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-03-11 17:38:45-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 17:38:59-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC0_2g_oneWayDomesticEcoSADAD
+2018-03-11 17:39:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 17:39:22-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-03-11 17:39:37-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-03-11 17:39:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 17:40:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-03-11 17:40:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-03-11 17:40:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-03-11 17:40:31-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-03-11 17:40:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-03-11 17:40:37-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-03-11 17:40:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-03-11 17:40:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-03-11 17:41:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Extras
+2018-03-11 17:42:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Payment
+2018-03-11 17:43:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Other payment options']/preceding-sibling::XCUIElementTypeButton
+2018-03-11 17:46:17-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-11 17:46:31-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC0_2g_oneWayDomesticEcoSADAD
+2018-03-11 17:47:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-03-11 17:47:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-03-11 17:48:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 17:48:12-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-03-11 17:48:28-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-03-11 17:48:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-11 17:48:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-03-11 17:49:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-03-11 17:49:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-03-11 17:49:22-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-03-11 17:49:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-03-11 17:49:29-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-03-11 17:49:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-03-11 17:49:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-03-11 17:50:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Extras
+2018-03-11 17:51:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Payment
+2018-03-11 17:51:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Other payment options']/preceding-sibling::XCUIElementTypeButton

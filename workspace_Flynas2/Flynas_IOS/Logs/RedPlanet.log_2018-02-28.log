@@ -1,0 +1,128 @@
+2018-02-28 15:03:07-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 15:04:59-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2018-02-28 15:10:33-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 15:11:01-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 15:11:15-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 15:12:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 15:27:06-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 15:27:20-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 15:32:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 15:33:27-main--INFO -com.ctaf.accelerators.TestEngine:Typing is not performed on EmailAddress
+2018-02-28 15:33:28-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-02-28 15:35:06-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 15:35:19-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 15:35:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 15:36:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 15:37:09-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 15:37:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 15:40:02-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 15:40:16-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 15:40:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 15:48:04-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 15:48:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 15:48:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 15:53:22-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 15:53:36-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 15:53:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 15:54:10-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-02-28 15:54:25-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-02-28 15:54:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 16:05:51-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 16:06:05-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 16:08:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2018-02-28 16:10:26-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@text='Log Out']
+2018-02-28 16:10:30-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-02-28 16:14:26-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 16:14:39-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 16:18:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2018-02-28 16:20:49-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@text='Logout']
+2018-02-28 16:20:53-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-02-28 16:21:23-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 16:21:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 16:22:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2018-02-28 16:24:10-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@text='Logout']
+2018-02-28 16:24:14-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-02-28 16:52:08-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 16:52:23-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 16:53:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-02-28 16:54:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-02-28 16:57:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 16:57:40-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-02-28 16:58:03-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-02-28 16:58:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 16:58:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2018-02-28 17:08:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 17:09:11-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 17:09:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-02-28 17:10:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-02-28 17:10:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 17:10:40-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-02-28 17:10:47-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-02-28 17:10:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 17:11:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2018-02-28 17:12:13-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 17:12:17-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 17:12:32-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 17:12:36-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 17:13:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-02-28 17:13:46-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on btn menu
+2018-02-28 17:13:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-02-28 17:14:09-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on Login
+2018-02-28 17:15:18-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 17:15:32-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 17:15:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 17:15:52-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-02-28 17:15:59-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-02-28 17:16:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 17:16:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2018-02-28 17:24:15-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 17:24:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 17:24:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-02-28 17:25:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-02-28 17:25:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 17:25:45-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-02-28 17:25:52-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-02-28 17:25:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 17:26:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2018-02-28 17:26:46-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@text='My profile']
+2018-02-28 17:26:49-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-02-28 17:32:47-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 17:33:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 17:33:24-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on Login
+2018-02-28 17:33:25-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-02-28 17:34:18-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 17:34:32-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 17:35:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-02-28 17:35:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-02-28 17:35:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 17:35:55-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-02-28 17:36:02-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-02-28 17:36:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 17:36:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2018-02-28 17:36:48-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@text='My profile']
+2018-02-28 17:36:51-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-02-28 17:42:00-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 17:42:14-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 17:42:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 17:43:33-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 17:43:47-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 17:43:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 17:43:56-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-02-28 17:44:03-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-02-28 17:44:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 17:44:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2018-02-28 18:02:05-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 18:03:02-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 18:03:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-02-28 18:04:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-02-28 18:04:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 18:04:19-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-02-28 18:04:26-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-02-28 18:04:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 18:12:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-28 18:12:28-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-28 18:12:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 18:12:36-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-02-28 18:12:44-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-02-28 18:12:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-28 18:13:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeButton[@name='btn menu']/../XCUIElementTypeButton[2]

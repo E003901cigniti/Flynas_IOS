@@ -1,0 +1,25 @@
+2017-12-13 16:52:34-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-12-13 16:59:12-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-12-13 17:31:34-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-12-13 17:42:44-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-12-13 17:55:29-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-12-13 18:50:34-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-12-13 18:55:28-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-12-13 19:43:22-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-12-13 19:43:54-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2017-12-13 19:44:58-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEconomy_RUH_JED
+2017-12-13 19:45:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeOther/*[@label='btn menu']
+2017-12-13 19:46:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/*[@label='Login']
+2017-12-13 19:46:38-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2017-12-13 19:46:56-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2017-12-13 19:47:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Login']
+2017-12-13 19:47:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Book
+2017-12-13 19:47:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2017-12-13 19:47:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Origin
+2017-12-13 19:47:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2017-12-13 19:48:03-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2017-12-13 19:48:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2017-12-13 19:48:19-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2017-12-13 19:48:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2017-12-13 19:48:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2017-12-13 19:53:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']

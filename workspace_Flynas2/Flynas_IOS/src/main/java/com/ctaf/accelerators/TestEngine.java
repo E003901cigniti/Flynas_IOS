@@ -71,7 +71,7 @@ public class TestEngine extends HtmlReportSupport {
 	public static Map<String, String> testDescription = new LinkedHashMap<String, String>();
 	public static Map<String, String> testResults = new LinkedHashMap<String, String>();
 	public static String url=null;
-	static ExcelReader xlsrdr = new ExcelReader(configProps.getProperty("TestData"),configProps.getProperty("sheetName0"));
+	static ExcelReader xlsrdr = new ExcelReader(configProps.getProperty("TestData"),configProps.getProperty("Settings"));
 	public DesiredCapabilities capabilities;
 	//***************************************************************************************************
 	public static String DeviceName = configProps.getProperty("DeviceName");
@@ -121,7 +121,7 @@ public class TestEngine extends HtmlReportSupport {
 				logger.info("Android");
 				browser = "android";
 			}
-			else if (groupNames.contains("Mobile")) {
+			else if (groupNames.contains("iPhone")) {
 				logger.info("iPhone");
 				browser = "iphone";
 			}
@@ -134,6 +134,7 @@ public class TestEngine extends HtmlReportSupport {
 			e1.printStackTrace();
 			System.out.println(e1);
 		}
+		
 		try {
 			if (groupNames.toString()
 					.contains("afiliate")) {
@@ -161,7 +162,7 @@ public class TestEngine extends HtmlReportSupport {
 		
 		if(browser.equalsIgnoreCase("iphone")){
 			try {
-				String logFile = System.getProperty("user.dir")+"/Logs/RPMob_"+System.currentTimeMillis()+".log";
+				String logFile = System.getProperty("user.dir")+"/Logs/Flynas_"+System.currentTimeMillis()+".log";
 				System.out.println("In iphone block");
 				DeviceName = configProps.getProperty("iOSDeviceName");
 				String device = configProps.getProperty("Device");
@@ -212,8 +213,7 @@ public class TestEngine extends HtmlReportSupport {
 				}
 				
 				
-				Iosdriver = new IOSDriver(new URL("http://127.0.0.1:4723/wd/hub"),
-				capabilitiesForAppium);
+				Iosdriver = new IOSDriver(new URL("http://127.0.0.1:4723/wd/hub"),capabilitiesForAppium);
 				driver = Iosdriver;
 				driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 			} catch (Exception e) {
@@ -425,7 +425,7 @@ public class TestEngine extends HtmlReportSupport {
 			}else if(browser.equalsIgnoreCase("iphone")){
 				Iosdriver.resetApp();
 			}else if (browser.equalsIgnoreCase("android")) {
-					AndroidDriver2.resetApp();
+				AndroidDriver2.resetApp();
 			}
 		flag = false;
 		if((!(browser.equalsIgnoreCase("Android")))&(!(browser.equalsIgnoreCase("iPhone")))){
@@ -471,11 +471,11 @@ public class TestEngine extends HtmlReportSupport {
 			e.printStackTrace();
 		} finally {
 			if ((browser.toLowerCase().contains("iphone"))) {
+				Iosdriver.resetApp();
 				Iosdriver.closeApp();
-				//Iosdriver.resetApp();
-			}else if(browser.toLowerCase().contains("android")){ 
-				//AndroidDriver2.closeApp();
-				
+				}else if(browser.toLowerCase().contains("android")){ 
+				AndroidDriver2.resetApp();
+				AndroidDriver2.closeApp();
 			}else{
 				driver.quit();
 			}

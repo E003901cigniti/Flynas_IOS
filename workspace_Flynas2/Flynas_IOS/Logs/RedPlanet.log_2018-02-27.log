@@ -1,0 +1,39 @@
+2018-02-27 12:40:33-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Android
+2018-02-27 12:42:32-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-27 12:43:49-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2018-02-27 12:52:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Book
+2018-02-27 12:54:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-02-27 13:01:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Origin
+2018-02-27 13:02:34-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on Search
+2018-02-27 13:02:35-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-02-27 13:10:33-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-27 13:10:47-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2018-02-27 13:11:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Book
+2018-02-27 13:36:08-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-27 13:36:22-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2018-02-27 13:37:08-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-02-27 13:42:21-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-27 13:42:35-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2018-02-27 13:50:32-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-27 13:50:47-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2018-02-27 15:15:33-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-27 15:15:47-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2018-02-27 15:16:50-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-27 15:17:04-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2018-02-27 15:21:30-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-27 15:21:44-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2018-02-27 15:35:35-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-27 15:35:49-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_oneWayDomesticEcoSADAD
+2018-02-27 19:24:29-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-27 19:25:24-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-27 19:29:55-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-27 19:30:08-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-27 19:32:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-02-27 19:38:32-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-27 19:38:47-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-27 19:39:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-27 19:44:35-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-02-27 19:44:49-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_01_f_UpdatePasswordInProfile
+2018-02-27 19:46:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-02-27 19:46:47-main--INFO -com.ctaf.accelerators.TestEngine:Typing is not performed on EmailAddress
+2018-02-27 19:46:47-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot

@@ -1,0 +1,362 @@
+2018-05-24 11:57:22-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 11:58:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_AnonymousOneAdultOneChildFlexCordShare
+2018-05-24 11:58:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 11:59:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 11:59:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 11:59:17-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 11:59:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 11:59:22-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 11:59:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on MAA
+2018-05-24 11:59:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 12:00:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 12:00:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 12:04:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 12:04:28-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_AnonymousOneAdultOneChildOneInfantPartCordShare
+2018-05-24 12:04:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 12:04:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 12:05:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 12:05:07-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 12:05:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 12:05:12-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 12:05:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AUH
+2018-05-24 12:05:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 12:06:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 12:06:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Infant']/following::XCUIElementTypeButton[2]
+2018-05-24 12:06:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 12:11:25-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 12:11:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_AnonymousOneAdultOneChildOneInfantPartCordShare
+2018-05-24 12:11:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 12:12:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 12:12:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 12:12:18-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 12:12:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 12:12:23-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 12:12:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AUH
+2018-05-24 12:15:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 12:15:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 12:15:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Infant']/following::XCUIElementTypeButton[2]
+2018-05-24 12:15:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 12:17:01-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-05-24 12:17:03-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-05-24 13:03:05-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 13:03:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_AnonymousOneAdultOneChildOneInfantPartCordShare
+2018-05-24 13:03:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 13:03:49-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 13:03:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 13:03:58-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 13:04:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 13:04:03-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 13:04:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AUH
+2018-05-24 13:04:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 13:04:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 13:04:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Infant']/following::XCUIElementTypeButton[2]
+2018-05-24 13:04:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 13:05:36-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-05-24 13:05:37-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-05-24 13:14:51-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 13:15:04-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_AnonymousOneAdultOneChildOneInfantPartCordShare
+2018-05-24 13:15:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 13:15:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 13:15:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 13:15:45-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 13:15:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 13:15:50-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 13:15:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AUH
+2018-05-24 13:16:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 13:16:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 13:16:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Infant']/following::XCUIElementTypeButton[2]
+2018-05-24 13:16:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 13:17:23-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-05-24 13:17:24-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-05-24 13:21:25-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 13:21:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_AnonymousOneAdultOneChildOneInfantPartCordShare
+2018-05-24 13:21:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 13:22:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 13:22:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 13:22:18-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 13:22:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 13:22:23-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 13:22:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AUH
+2018-05-24 13:22:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 13:22:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 13:23:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Infant']/following::XCUIElementTypeButton[2]
+2018-05-24 13:23:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 13:36:02-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 13:36:17-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_AnonymousOneAdultOneChildOneInfantPartCordShare
+2018-05-24 13:36:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 13:36:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 13:36:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 13:36:58-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 13:36:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 13:37:03-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 13:37:04-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AUH
+2018-05-24 13:37:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 13:37:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 13:37:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Infant']/following::XCUIElementTypeButton[2]
+2018-05-24 13:38:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 13:46:04-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 13:46:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_AnonymousOneAdultOneChildOneInfantPartCordShare
+2018-05-24 13:46:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 13:46:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 13:46:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 13:46:58-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 13:46:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 13:47:03-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 13:47:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AUH
+2018-05-24 13:47:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 13:47:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 13:47:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Infant']/following::XCUIElementTypeButton[2]
+2018-05-24 13:48:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 13:57:25-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 13:57:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_AnonymousOneAdultOneChildOneInfantPartCordShare
+2018-05-24 13:57:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 13:58:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 13:58:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 13:58:19-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 13:58:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 13:58:24-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 13:58:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AUH
+2018-05-24 13:58:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 13:58:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 13:59:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Infant']/following::XCUIElementTypeButton[2]
+2018-05-24 13:59:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 14:02:05-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-05-24 14:03:58-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 14:04:11-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_AnonymousOneAdultOneChildOneInfantPartCordShare
+2018-05-24 14:04:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 14:04:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 14:04:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 14:04:51-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 14:04:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 14:04:56-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 14:04:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AUH
+2018-05-24 14:05:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 14:05:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 14:05:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Infant']/following::XCUIElementTypeButton[2]
+2018-05-24 14:05:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 14:09:04-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-05-24 14:17:59-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 14:18:12-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_AnonymousOneAdultOneChildOneInfantPartCordShare
+2018-05-24 14:18:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 14:18:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 14:18:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 14:18:52-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 14:18:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 14:18:57-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 14:18:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AUH
+2018-05-24 14:19:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 14:19:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 14:19:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Infant']/following::XCUIElementTypeButton[2]
+2018-05-24 14:19:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 14:20:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[2]
+2018-05-24 14:26:50-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 14:27:04-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_AnonymousOneAdultOneChildOneInfantPartCordShare
+2018-05-24 14:27:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 14:27:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 14:27:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 14:27:44-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 14:27:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 14:27:49-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 14:27:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AUH
+2018-05-24 14:28:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 14:28:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 14:28:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Infant']/following::XCUIElementTypeButton[2]
+2018-05-24 14:28:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 14:29:36-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='icn arrow right red']
+2018-05-24 15:25:24-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 15:25:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_AnonymousOneAdultOneChildOneInfantPartCordShare
+2018-05-24 15:25:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 15:26:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 15:26:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 15:26:19-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 15:26:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 15:26:24-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 15:26:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AUH
+2018-05-24 15:26:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 15:26:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 15:27:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Infant']/following::XCUIElementTypeButton[2]
+2018-05-24 15:27:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 15:30:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2018-05-24 15:30:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton
+2018-05-24 15:33:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[4]/XCUIElementTypeButton[2]
+2018-05-24 15:48:13-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 15:48:27-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_11_AnonymousOneAdultOneChildOneInfantPartCordShare
+2018-05-24 15:48:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 15:48:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 15:49:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 15:49:07-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 15:49:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 15:49:12-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 15:49:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on AUH
+2018-05-24 15:49:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 15:49:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 15:50:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Infant']/following::XCUIElementTypeButton[2]
+2018-05-24 15:50:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 15:53:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='icn arrow right red']
+2018-05-24 15:54:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton
+2018-05-24 15:57:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[4]/XCUIElementTypeButton[3]
+2018-05-24 15:59:39-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 15:59:52-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_AnonymousOneAdultOneChildFlexCordShare
+2018-05-24 16:00:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 16:01:06-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 16:01:19-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_AnonymousOneAdultOneChildFlexCordShare
+2018-05-24 16:01:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 16:01:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 16:01:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 16:01:59-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 16:02:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 16:02:04-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 16:02:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on MAA
+2018-05-24 16:02:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 16:02:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 16:02:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 16:03:45-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='Title*']/following-sibling::XCUIElementTypeButton[1]
+2018-05-24 16:04:41-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 16:04:55-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_10_AnonymousOneAdultOneChildFlexCordShare
+2018-05-24 16:05:09-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 16:05:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 16:05:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 16:05:34-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 16:05:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 16:05:39-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 16:05:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on MAA
+2018-05-24 16:05:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 16:06:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 16:06:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 16:07:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2018-05-24 16:09:07-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-05-24 16:47:36-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 16:47:51-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_2a_oneWayDomesticBusinessCC
+2018-05-24 16:48:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-05-24 16:48:14-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-05-24 16:48:29-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-05-24 16:48:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-05-24 16:48:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 16:49:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 16:49:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 16:49:22-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 16:49:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-05-24 16:49:27-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 16:49:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on DMM
+2018-05-24 16:49:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 16:51:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[2]
+2018-05-24 16:51:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2018-05-24 16:53:48-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 16:54:01-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_02_d_RTDomesticBusiness1AdultCC
+2018-05-24 16:54:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-05-24 16:55:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-05-24 16:55:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-05-24 16:55:43-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-05-24 16:55:58-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-05-24 16:55:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-05-24 16:56:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Return
+2018-05-24 16:56:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 16:56:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 16:56:51-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 16:56:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-05-24 16:56:56-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 16:56:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on DMM
+2018-05-24 16:57:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Passengers']/../XCUIElementTypeButton
+2018-05-24 16:57:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Child']/following::XCUIElementTypeButton[2]
+2018-05-24 16:57:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 16:58:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[2]
+2018-05-24 16:59:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[5]
+2018-05-24 17:00:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[2]
+2018-05-24 17:00:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[5]
+2018-05-24 17:01:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Extras
+2018-05-24 17:02:50-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='Other payment options']/preceding-sibling::XCUIElementTypeButton
+2018-05-24 17:02:50-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-05-24 18:19:29-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 18:19:42-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_3a_AnonymousOneWayDomesticSimpleChangeDate
+2018-05-24 18:19:56-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 18:20:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 18:20:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 18:20:23-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 18:20:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-05-24 18:20:28-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 18:20:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 18:20:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 18:21:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[2]
+2018-05-24 18:21:44-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2018-05-24 18:22:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[2]
+2018-05-24 18:22:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2018-05-24 18:23:38-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='Title*']/following-sibling::XCUIElementTypeButton[1]
+2018-05-24 18:23:39-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-05-24 18:24:34-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 18:24:47-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_3a_AnonymousOneWayDomesticSimpleChangeDate
+2018-05-24 18:25:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 18:25:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 18:25:24-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 18:25:27-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 18:25:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-05-24 18:25:32-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 18:25:34-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 18:25:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 18:26:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[2]
+2018-05-24 18:26:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2018-05-24 18:27:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[2]
+2018-05-24 18:27:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2018-05-24 18:28:07-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 18:28:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_3a_AnonymousOneWayDomesticSimpleChangeDate
+2018-05-24 18:28:36-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 18:28:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 18:28:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 18:29:01-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 18:29:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-05-24 18:29:06-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 18:29:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 18:29:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 18:35:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[2]
+2018-05-24 18:35:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2018-05-24 18:37:17-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 18:37:31-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_3a_AnonymousOneWayDomesticSimpleChangeDate
+2018-05-24 18:37:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 18:38:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 18:38:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 18:38:11-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 18:38:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-05-24 18:38:15-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 18:38:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 18:38:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 18:39:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[2]
+2018-05-24 18:39:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2018-05-24 18:40:32-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='Title*']/following-sibling::XCUIElementTypeButton[1]
+2018-05-24 18:40:33-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-05-24 18:46:48-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 18:47:09-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_3a_AnonymousOneWayDomesticSimpleChangeDate
+2018-05-24 18:47:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 18:47:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 18:47:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 18:47:51-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 18:47:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-05-24 18:47:56-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 18:47:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 18:48:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 18:48:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[2]
+2018-05-24 18:49:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2018-05-24 18:55:25-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 18:55:41-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_3a_AnonymousOneWayDomesticSimpleChangeDate
+2018-05-24 18:55:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 18:56:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 18:56:17-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 18:56:21-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 18:56:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-05-24 18:56:26-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 18:56:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 18:56:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 18:57:25-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[2]
+2018-05-24 18:57:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[3]
+2018-05-24 18:58:44-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='Title*']/following-sibling::XCUIElementTypeButton[1]
+2018-05-24 18:58:45-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-05-24 18:59:26-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-05-24 18:59:39-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_3a_AnonymousOneWayDomesticSimpleChangeDate
+2018-05-24 18:59:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-05-24 19:00:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-05-24 19:00:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-05-24 19:00:20-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-05-24 19:00:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-05-24 19:00:24-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-05-24 19:00:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-05-24 19:00:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-05-24 19:01:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[2]
+2018-05-24 19:01:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeCell[1]/XCUIElementTypeButton[3]

@@ -13,11 +13,11 @@
 		    <!--******************************Economy********************************** -->
 						
 
-						<class name="flynas.ios.Prod.routes.TC01_oneWayDomesticEconomy_RUH_JED"/>
+					<!-- 	<class name="flynas.ios.Prod.routes.TC01_oneWayDomesticEconomy_RUH_JED"/>
 						<class name="flynas.ios.Prod.routes.TC02_oneWayDomesticEconomy_RUH_DMM"/>
 						<class name="flynas.ios.Prod.routes.TC03_oneWayDomesticEconomy_RUH_GIZ"/>
 						<class name="flynas.ios.Prod.routes.TC04_oneWayDomesticEconomy_RUH_MED"/>
-						<class name="flynas.ios.Prod.routes.TC05_oneWayDomesticEconomy_RUH_TIF"/>
+						<class name="flynas.ios.Prod.routes.TC05_oneWayDomesticEconomy_RUH_TIF"/> -->
 						<class name="flynas.ios.Prod.routes.TC06_oneWayDomesticEconomy_RUH_HAS"/>
 						<class name="flynas.ios.Prod.routes.TC07_oneWayDomesticEconomy_RUH_TUU"/>
 						<class name="flynas.ios.Prod.routes.TC08_oneWayDomesticEconomy_RUH_URY"/> 
@@ -28,17 +28,17 @@
 						<class name="flynas.ios.Prod.routes.TC13_roundTripDomesticEconomy_JED_MED"/>
 						<class name="flynas.ios.Prod.routes.TC14_roundTripDomesticEconomy_JED_AHB"/>
 						<class name="flynas.ios.Prod.routes.TC15_roundTripDomesticEconomy_JED_TUU"/>
-						<class name="flynas.ios.Prod.routes.TC16_roundTripDomesticEconomy_JED_ELQ"/>
+				<!-- 		<class name="flynas.ios.Prod.routes.TC16_roundTripDomesticEconomy_JED_ELQ"/>
 						<class name="flynas.ios.Prod.routes.TC17_roundTripDomesticEconomy_DMM_TIF"/>
 						<class name="flynas.ios.Prod.routes.TC18_roundTripDomesticEconomy_DMM_AHB"/>
 						<class name="flynas.ios.Prod.routes.TC19_roundTripDomesticEconomy_DMM_YNB"/>
 						<class name="flynas.ios.Prod.routes.TC20_roundTripDomesticEconomy_DMM_MED"/>
-					<!-- 	<class name="flynas.ios.Prod.routes.TC21_roundTripDomesticEconomy_DMM_GIZ"/>
+						<class name="flynas.ios.Prod.routes.TC21_roundTripDomesticEconomy_DMM_GIZ"/>
 						<class name="flynas.ios.Prod.routes.TC22_roundTripDomesticEconomy_DMM_ELQ"/>
 						<class name="flynas.ios.Prod.routes.TC23_roundTripDomesticEconomy_DMM_HAS"/>
 						<class name="flynas.ios.Prod.routes.TC24_roundTripDomesticEconomy_DMM_TUU"/>
 						<class name="flynas.ios.Prod.routes.TC25_roundTripDomesticEconomy_DMM_ABT"/>
-					<class name="flynas.ios.Prod.routes.TC26_roundTripDomesticEconomy_AHB_ABT"/>
+						<class name="flynas.ios.Prod.routes.TC26_roundTripDomesticEconomy_AHB_ABT"/>
 						<class name="flynas.ios.Prod.routes.TC27_roundTripDomesticEconomy_ABH_BHH"/>
 						<class name="flynas.ios.Prod.routes.TC28_oneWayDomesticEconomy_AHB_WAE"/>
 						<class name="flynas.ios.Prod.routes.TC29_oneWayDomesticEconomy_AHB_GIZ"/>
@@ -74,7 +74,7 @@
 						<class name="flynas.ios.Prod.routes.TC59_multiCityInternationalEconomy_DMM_KRT"/>
 						<class name="flynas.ios.Prod.routes.TC60_multiCityInternationalEconomy_RUH_BAH"/>
 						<class name="flynas.ios.Prod.routes.TC61_multiCityInternationalEconomy_JED_BAH"/>
-						<class name="flynas.ios.Prod.routes.TC62_roundTripDomesticEconomyAddExtra_RUH_AHB"/>-->
+						<class name="flynas.ios.Prod.routes.TC62_roundTripDomesticEconomyAddExtra_RUH_AHB"/> -->
 						
 					<!--******************************Flex********************************** -->	
 		

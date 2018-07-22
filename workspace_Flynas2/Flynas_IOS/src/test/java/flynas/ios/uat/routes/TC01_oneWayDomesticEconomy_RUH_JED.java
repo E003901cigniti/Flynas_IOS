@@ -17,12 +17,12 @@ import flynas.ios.workflows.BookingPageFlow;
 
 public class TC01_oneWayDomesticEconomy_RUH_JED extends BookingPageFlow{
 		
-	ExcelReader xls = new ExcelReader(configProps.getProperty("TestData"),"TestData");
+	ExcelReader xls = new ExcelReader(configProps.getProperty("TestData_UAT_Routes"),"AllRoutes");
 
 	@Test(dataProvider = "testData",groups={"Economy"})
 	public  void TC_01_oneWayDomesticEconomy_RUH_JED(String tripType, String origin, String dest,String deptDate,
 			String origin2,String departure2, String retdate,String Audalt,String Child,String infant, String promo, 
-			String strBookingClass,String FlightType,String totalpass,String namtionality,String Doctypr,String docNumber,
+			String bookingClass, String bundle,String FlightType,String totalpass,String namtionality,String Doctypr,String docNumber,
 			String naSmiles,String Mobile,String email ,String SelectSeat,String paymenttype,String bookingtype, 
 			String charity,String Currency,String username,String password, String Description) throws Throwable {
 		try {
@@ -35,25 +35,10 @@ public class TC01_oneWayDomesticEconomy_RUH_JED extends BookingPageFlow{
 			
 			selectBookFlights();			
 			inputBookingDetails(tripType, origin, dest, deptDate, origin2, departure2, retdate,Audalt, Child, infant,promo,Currency);
-			selectClass(strBookingClass, tripType);
-			
-		//	inputPassengerDetails(FlightType,totalpass,namtionality,Doctypr,docNumber,naSmiles,Mobile,email,"","","");
-
-			waitforElement(BookingPageLocators.passengertitle);
-			scrollJS(BookingPageLocators.selectExtras_btn);
-			click(BookingPageLocators.selectExtras_btn, "Select Extras");
-			
-			waitforElement(BookingPageLocators.baggageTittle);
-			if(isElementDisplayedTemp(BookingPageLocators.baggageTittle)==true){
-				scrollJS(BookingPageLocators.selectSeat_btn);
-				click(BookingPageLocators.selectSeat_btn, "Select Seat");
-			}
-			waitforElement(BookingPageLocators.seatSelectionTittle);
-			if(isElementDisplayedTemp(BookingPageLocators.seatSelectionTittle)==true){
-				click(BookingPageLocators.payment_btn, "Payment");
-			}else{
-				System.out.println("No Seat Available");
-			}
+			selectClass(bookingClass, bundle);
+			continueOnPsngrDtls();
+			continueOnExtras();
+			continueOnSeatSelection();
 			paymentoption("Otherpayment");
 			payment(paymenttype,"");
 			String pnr = getReferenceNumber();
@@ -62,8 +47,8 @@ public class TC01_oneWayDomesticEconomy_RUH_JED extends BookingPageFlow{
 			selectCheckIn();
 			driver.manage().timeouts().implicitlyWait(20000, TimeUnit.MILLISECONDS);
 			scrollJS(BookingPageLocators.pnr(pnr));
-			click(BookingPageLocators.manage(pnr), "CheckIN");
-			performCheckin(SelectSeat, paymenttype, "");
+			click(BookingPageLocators.MMB(pnr), "CheckIN");
+			performCheckin();
 			if(isElementPresent(BookingPageLocators.travelDocuments)==true){
 				click(BookingPageLocators.continuebtn, "Continue");
 				driver.manage().timeouts().implicitlyWait(10000,TimeUnit.MILLISECONDS);
@@ -99,16 +84,18 @@ public class TC01_oneWayDomesticEconomy_RUH_JED extends BookingPageFlow{
 				xls.getCellValue("Infant Count", "Value"),
 				xls.getCellValue("Promo", "Value"),
 				xls.getCellValue("Booking Class", "Value"),
+				xls.getCellValue("bundle", "Value"),
+				
 				xls.getCellValue("Flight Type", "Value"),
 				xls.getCellValue("Total Passenger", "Value"),
 				xls.getCellValue("Nationality", "Value"),
 				xls.getCellValue("Document Type", "Value"),
 				xls.getCellValue("Doc Number", "Value"),
-				"1234567890",
+				"",
 				xls.getCellValue("Mobile", "Value"),
 				xls.getCellValue("Email Address", "Value"),
 				xls.getCellValue("Select Seat", "Value"),
-				xls.getCellValue("Payment Type", "Value2"),
+				xls.getCellValue("Payment Type", "Value"),
 				"",
 				xls.getCellValue("Charity Donation", "Value"),
 				xls.getCellValue("Currency", "Value"),

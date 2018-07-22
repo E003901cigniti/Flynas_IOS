@@ -1,0 +1,130 @@
+2018-03-15 13:50:08-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-15 13:51:06-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC0_2g_oneWayDomesticEcoSADAD
+2018-03-15 13:51:42-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-03-15 13:52:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-03-15 13:52:39-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-15 13:52:51-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-03-15 13:53:07-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-03-15 13:53:08-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-15 13:53:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-03-15 13:53:51-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-03-15 13:53:57-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-03-15 13:54:00-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-03-15 13:54:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-03-15 13:54:05-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-03-15 13:54:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-03-15 13:54:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-03-15 13:55:02-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Extras
+2018-03-15 13:55:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Seat
+2018-03-15 13:56:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Payment
+2018-03-15 13:56:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Other payment options']/preceding-sibling::XCUIElementTypeButton
+2018-03-15 13:57:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Card number']/../XCUIElementTypeButton
+2018-03-15 13:58:09-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2018-03-15 13:58:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Card holder name']/../XCUIElementTypeButton
+2018-03-15 13:59:25-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-15 13:59:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC0_2g_oneWayDomesticEcoSADAD
+2018-03-15 14:00:12-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-03-15 14:00:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-03-15 14:01:10-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-15 14:01:22-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-03-15 14:01:37-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-03-15 14:01:38-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-15 14:02:05-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-03-15 14:02:22-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-03-15 14:02:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-03-15 14:02:30-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-03-15 14:02:32-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-03-15 14:02:35-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-03-15 14:02:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-03-15 14:02:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-03-15 14:03:30-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Extras
+2018-03-15 14:04:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Seat
+2018-03-15 14:04:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Payment
+2018-03-15 14:05:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Other payment options']/preceding-sibling::XCUIElementTypeButton
+2018-03-15 14:06:07-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Card number']/../XCUIElementTypeButton
+2018-03-15 14:06:38-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2018-03-15 14:07:00-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Card holder name']/../XCUIElementTypeButton
+2018-03-15 14:07:33-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2018-03-15 14:07:55-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Expiry Date (MM/YY)']/../XCUIElementTypeButton
+2018-03-15 14:08:26-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2018-03-15 14:08:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='CW2/CVV Number']/../XCUIElementTypeButton
+2018-03-15 14:09:20-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2018-03-15 14:09:23-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2018-03-15 14:09:47-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Submit
+2018-03-15 15:17:08-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-15 15:17:24-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC0_2g_oneWayDomesticEcoSADAD
+2018-03-15 15:17:53-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-03-15 15:18:27-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-03-15 15:18:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-15 15:19:02-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-03-15 15:19:18-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-03-15 15:19:19-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-15 15:19:24-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-03-15 15:27:46-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-15 15:28:03-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC0_2g_oneWayDomesticEcoSADAD
+2018-03-15 15:28:33-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on btn menu
+2018-03-15 15:29:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Logout
+2018-03-15 15:29:29-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-15 15:29:41-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on EmailAddress
+2018-03-15 15:29:57-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Password
+2018-03-15 15:29:58-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Login
+2018-03-15 15:30:18-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-03-15 15:30:35-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-03-15 15:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-03-15 15:30:44-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-03-15 15:30:45-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-03-15 15:30:48-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-03-15 15:30:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on JED
+2018-03-15 15:30:54-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-03-15 15:31:43-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Extras
+2018-03-15 15:32:20-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Select Seat
+2018-03-15 15:32:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Continue to Payment
+2018-03-15 15:33:11-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Other payment options']/preceding-sibling::XCUIElementTypeButton
+2018-03-15 15:34:06-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Card number']/../XCUIElementTypeButton
+2018-03-15 15:34:37-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Number
+2018-03-15 15:34:59-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Card holder name']/../XCUIElementTypeButton
+2018-03-15 15:35:32-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Card Holder Name
+2018-03-15 15:35:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Expiry Date (MM/YY)']/../XCUIElementTypeButton
+2018-03-15 15:36:24-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Expiry Date
+2018-03-15 15:36:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='CW2/CVV Number']/../XCUIElementTypeButton
+2018-03-15 15:37:17-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on cvv
+2018-03-15 15:37:21-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Purchase
+2018-03-15 15:37:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Submit
+2018-03-15 15:54:36-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-15 15:54:50-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_4a_AnonymousOneWayDomOneAdultCheckin
+2018-03-15 15:56:41-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-15 15:56:55-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_4a_AnonymousOneWayDomOneAdultCheckin
+2018-03-15 15:57:14-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Booking Reference (PNR)']/../XCUIElementTypeButton
+2018-03-15 15:57:43-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Reference Number
+2018-03-15 15:58:01-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Last Name']/../XCUIElementTypeButton
+2018-03-15 15:58:30-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Lastname
+2018-03-15 15:58:48-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeButton[@name='Check-in']
+2018-03-15 15:59:13-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='I agree to the Terms and Conditions.']/preceding-sibling::XCUIElementTypeButton
+2018-03-15 15:59:26-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //*[@label='Continue']
+2018-03-15 16:00:32-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2018-03-15 16:21:08-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-15 16:21:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_4a_AnonymousOneWayDomOneAdultCheckin
+2018-03-15 16:21:40-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Booking Reference (PNR)']/../XCUIElementTypeButton
+2018-03-15 16:22:09-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Reference Number
+2018-03-15 16:22:28-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Last Name']/../XCUIElementTypeButton
+2018-03-15 16:22:56-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Lastname
+2018-03-15 16:23:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeButton[@name='Check-in']
+2018-03-15 17:11:43-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-15 17:11:57-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_4a_AnonymousOneWayDomOneAdultCheckin
+2018-03-15 17:12:16-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Booking Reference (PNR)']/../XCUIElementTypeButton
+2018-03-15 17:12:45-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Reference Number
+2018-03-15 17:13:03-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Last Name']/../XCUIElementTypeButton
+2018-03-15 17:13:33-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Lastname
+2018-03-15 17:13:52-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeButton[@name='Check-in']
+2018-03-15 17:15:46-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : iphone
+2018-03-15 17:16:01-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_4a_AnonymousOneWayDomOneAdultCheckin
+2018-03-15 17:16:15-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on One-way
+2018-03-15 17:16:31-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on By.xpath: //XCUIElementTypeStaticText[@name='Origin']/../XCUIElementTypeButton
+2018-03-15 17:16:37-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Search
+2018-03-15 17:16:40-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Origin
+2018-03-15 17:16:41-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on DMM
+2018-03-15 17:16:45-main--INFO -com.ctaf.accelerators.TestEngine:Typing is performed on Destination
+2018-03-15 17:16:46-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on RUH
+2018-03-15 17:16:50-main--INFO -com.ctaf.accelerators.TestEngine:Able to click on Find Flights
+2018-03-15 17:17:49-main--INFO -com.ctaf.accelerators.TestEngine:Unable to click on By.xpath: //*[@label='Title*']/following-sibling::XCUIElementTypeButton[1]
+2018-03-15 17:17:49-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot

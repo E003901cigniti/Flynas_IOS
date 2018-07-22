@@ -2,7 +2,7 @@
 <!DOCTYPE project [
 ]>
 
-<project name="RedPlanet" default="Mobile" basedir=".">
+<project name="Flynas_IOS" default="Mobile" basedir=".">
 
 	<!-- ========== Initialize Properties =================================== -->
 	<property environment="env"/>
@@ -103,7 +103,7 @@
 
 	<!-- excel -->
 	<target name="excel-testcases" depends="compile" description="excel-testcases">
-		<testng classpath="${test.classpath}:${test.dest}" suitename="RedPlanet" haltOnfailure="true">
+		<testng classpath="${test.classpath}:${test.dest}" suitename="Flynas" haltOnfailure="true">
 			<classpath refid="test.run"/>
 			<xmlfileset dir="${ws.Run-Excel}" includes="ExcelTestCase.xml"/>
 		</testng>
@@ -113,14 +113,14 @@
 	<!-- firefox -->
 	<target name="firefox" depends="compile" description="firefox">
 		<testng classpath="${test.classpath}:${test.dest}" groups="firefox"
-							suitename="RedPlanet" haltOnfailure="true">
+							suitename="Flynas" haltOnfailure="true">
 			<xmlfileset dir="${ws.home}" includes="testNG.xml" />
 		</testng>
 	</target>
 	<!-- au_region_ie -->
 	<target name="chrome" depends="compile" description="chrome">
 		<testng classpath="${test.classpath}:${test.dest}" groups="chrome"
-								suitename="RedPlanet" haltOnfailure="true" >
+								suitename="Flynas" haltOnfailure="true" >
 			<xmlfileset dir="${ws.home}" includes="testNG.xml" />
 		</testng>
 	</target>
@@ -129,14 +129,14 @@
 <!-- iPhone -->
 		<target name="Mobile" depends="compile" description="iPhone">
 			<testng classpath="${test.classpath}:${test.dest}" groups="Mobile"
-							suitename="RedPlanet" haltOnfailure="no" >
+							suitename="Flynas_iOS" haltOnfailure="no" >
 				<xmlfileset dir="${ws.home}" includes="testNG.xml" />
 			</testng>
 		</target>
 	<!-- Android -->
 			<target name="Android" depends="compile" description="Android">
 				<testng classpath="${test.classpath}:${test.dest}" groups="Android"
-								suitename="RedPlanetAndroid" haltOnfailure="no" >
+								suitename="FlynasAndroid" haltOnfailure="no" >
 					<xmlfileset dir="${ws.home}" includes="testNG2.xml" />
 				</testng>
 			</target>

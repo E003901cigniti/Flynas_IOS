@@ -109,23 +109,22 @@ public class ActionEngine extends TestEngine {
 				return flag;
 			} else if (b && flag) {
 				logger.info("Able to click on "+locator);
-				Reporter.SuccessReport("Click", "Successfully click on "
+				Reporter.SuccessReport("Click", "Successfully clicked on "
 						+ locatorName);
 			}
 		}
 		return flag;
 	}
 	public static boolean click_mobile(String title,String locatorName) throws Throwable
-	{
+	{	
 		boolean flag = false;
 		try {
 			Iosdriver.findElementByAccessibilityId(title).click();
-			//Thread.sleep(2000);
 			flag = true;
 		} catch (Exception e) {
 			e.printStackTrace();
 		} finally {
-			if (!flag) {
+			if (flag!=true) {
 				logger.info("Unable to click on "+title);
 				Reporter.failureReport("Click", "Unable to click on "
 						+ locatorName);
@@ -233,7 +232,7 @@ public class ActionEngine extends TestEngine {
             if(!(isElementDisplayedTemp(locator))){
                 try
                 {
-                    for(int i=1;(!(isElementDisplayedTemp(locator)))|(i<300);i=i+1){
+                    for(int i=1;(!(isElementDisplayedTemp(locator)))|(i<4);i=i+1){
                         
                         /*if((i==1)){
                          //we1 = driver.findElement(By.xpath("//*[1]"));
@@ -380,11 +379,11 @@ public class ActionEngine extends TestEngine {
 		}
 	}
 
-	public static void isElementClickable(By by, String locatorName)
+	public static boolean isElementClickable(By by, String locatorName)
 			throws Throwable {
 		boolean flag = false;
 		try {
-			wait = new WebDriverWait(driver, 30);
+			wait = new WebDriverWait(driver, 10);
 			WebElement ele = wait.until(ExpectedConditions.elementToBeClickable(by));
 			if (ele!=null){
 				flag = true;
@@ -393,15 +392,14 @@ public class ActionEngine extends TestEngine {
 			System.out.println(e.getMessage());
 		} finally {
 			if (!flag) {
-				Reporter.failureReport("check IsElementClickable", locatorName
-				+ " Element is not present on the page");
-				Assert.assertTrue(flag,"Unable find the element "+ locatorName);
+				Reporter.failureReport("check IsElementClickable", locatorName+ " Element is not present on the page");
+				//Assert.assertTrue(flag,"Unable find the element "+ locatorName);
 			} else if (b && flag) {
-				Reporter.SuccessReport("IsElementClickable ",
-						"Able to locate element " + locatorName);
+				Reporter.SuccessReport("IsElementClickable ","Able to locate element " + locatorName);
 			}
 
 		}
+		return flag;
 	}
 	/**
 	 * This method used type value in to text box or text area
@@ -2900,7 +2898,15 @@ public class ActionEngine extends TestEngine {
 	}
 	
 	public static String randomString() {
-		return RandomStringUtils.randomAlphabetic(6);
+		return RandomStringUtils.randomAlphabetic(8);
+	}
+	
+	public static String randomString(int length) {
+		return RandomStringUtils.randomAlphabetic(length);
+	}
+	
+	public static String randomNumericString(int length) {
+	return RandomStringUtils.randomNumeric(length);
 	}
 	
 	public static String randomNumericString() {
@@ -2943,9 +2949,7 @@ public class ActionEngine extends TestEngine {
         try { 
         	if((locatorname.equalsIgnoreCase("Date Of Birth")))
         	{
-        		
-        	
-        	for (int i = list.length-1 ; i >= 0 ; i--) {
+        		for (int i = list.length-1 ; i >= 0 ; i--) {
         		
         		if(Passenger.contains("Infant"))
         		{
@@ -2994,6 +2998,8 @@ public class ActionEngine extends TestEngine {
         }
         return flag;
         }
+	
+	
 	public void switchtoChildWindow()
 	{
 		String parentWindow = driver.getWindowHandle();
@@ -3010,7 +3016,7 @@ public class ActionEngine extends TestEngine {
 	}
 	public static boolean scrollJS(By locator) throws Throwable{
 		driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
-		for(int i =0;i<3;i++){
+		for(int i =0;i<2;i++){
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		    HashMap<String, String> scrollObject = new HashMap<String, String>();
 		    scrollObject.put("direction", "down");
@@ -3043,18 +3049,22 @@ public class ActionEngine extends TestEngine {
 		  ((MobileDriver<WebElement>) driver).swipe(startx, starty, startx, endy, 3000);
 		 
 	}
-	public static void waitforElement(By locator) throws InterruptedException 
+	
+	public static void waitforElement(By locator) throws Throwable 
 	{
+		Thread.sleep(5000);
 		try{
-			Thread.sleep(3000);
-			driver.findElement(locator).isDisplayed();
+			WebDriverWait wait = new WebDriverWait(driver, 15);
+			wait.until(ExpectedConditions.visibilityOf(driver.findElement(locator)));
+			if(driver.findElement(locator).isDisplayed()==true)
 			System.out.println("Element is available :"+locator);
-			//break;
+			else
+				Reporter.failureReport("Waiting for the Element by locator "+locator+" for 20 seconds", "Element could not be found");
 			}
 		catch (RuntimeException localRuntimeException)
 			{ 
-				System.out.println("Waited for the element by locator : "+ locator+" for 5 seconds - "+ localRuntimeException.getMessage());
-				} 
+				System.out.println("Waited for the element by locator : "+ locator+" for 20 seconds - "+ localRuntimeException.getMessage());
+			} 
 	}
 			
 	
